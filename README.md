@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on ... CEH, CISSP, CCNA
+- 🌱 I’m currently learning ... AI Neural Networking
+- 👯 I’m looking to collaborate on ... Custom Android ROM's
+- 🤔 I’m looking for help with ... a paycheck
+- 💬 Ask me about ... 
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+
 <!--
 **j1nh0/j1nh0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
