@@ -45,6 +45,7 @@
  <project name="pdf_firefox"			path="pdf/firefox"/>
  <project name="pdf_gcc"			path="pdf/gcc"/>
  <project name="pdf_git"			path="pdf/git"/>
+ <project name="pdf_google"			path="pdf/google"/>
  <project name="pdf_jakcom"			path="pdf/jakcom"/>
  <project name="pdf_kali"			path="pdf/kali"/>
  <project name="pdf_luks"			path="pdf/luks"/>
