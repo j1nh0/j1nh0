@@ -158,11 +158,11 @@
  <project  name="mandatoryprogrammer/BARTHue"					path="git/mandatoryprogrammer/BARTHue"																remote="githubmaster"/>
  <project  name="mandatoryprogrammer/chrome-extension-manifests-dataset"	path="git/mandatoryprogrammer/chrome-extension-manifests-dataset"												remote="githubmaster"/>
  <project  name="mandatoryprogrammer/ChromeGalvanizer"				path="git/mandatoryprogrammer/ChromeGalvanizer"															remote="githubmaster"/>
- <project  name="mandatoryprogrammer/cloudflare_enum"				path="git/mandatoryprogrammer/cloudflare/enum"															remote="githubmaster"/>
+ <project  name="mandatoryprogrammer/cloudflare_enum"				path="git/mandatoryprogrammer/cloudflare_enum"															remote="githubmaster"/>
  <project  name="mandatoryprogrammer/comfortably-run"				path="git/mandatoryprogrammer/comfortably-run"															remote="githubmaster"/>
  <project  name="mandatoryprogrammer/cordova-replay"				path="git/mandatoryprogrammer/cordova-replay"															remote="githubmaster"/>
  <project  name="mandatoryprogrammer/CSP-Bypass"				path="git/mandatoryprogrammer/CSP-Bypass"															remote="githubmaster"/>
- <project  name="mandatoryprogrammer/ctf_tools"					path="git/mandatoryprogrammer/ctf/tools"															remote="githubmaster"/>
+ <project  name="mandatoryprogrammer/ctf_tools"					path="git/mandatoryprogrammer/ctf_tools"															remote="githubmaster"/>
  <project  name="mandatoryprogrammer/CursedChrome"				path="git/mandatoryprogrammer/CursedChrome"															remote="githubmaster"/>
  <project  name="mandatoryprogrammer/dig-lambda-layer"				path="git/mandatoryprogrammer/dig-lambda-layer"															remote="githubmaster"/>
  <project  name="mandatoryprogrammer/dotfiles"					path="git/mandatoryprogrammer/dotfiles"																remote="githubmaster"/>
@@ -177,7 +177,6 @@
  <project  name="mandatoryprogrammer/Metafid-Base"				path="git/mandatoryprogrammer/Metafid-Base"															remote="githubmaster"/>
  <project  name="mandatoryprogrammer/mygithubpage"				path="git/mandatoryprogrammer/mygithubpage"															remote="githubmaster"/>
  <project  name="mandatoryprogrammer/NorthKoreaDNSLeak"				path="git/mandatoryprogrammer/NorthKoreaDNSLeak"														remote="githubmaster"/>
- <project  name="mandatoryprogrammer/Octodog_Invasion"				path="git/mandatoryprogrammer/Octodog/Invasion"															remote="githubmaster"/>
  <project  name="mandatoryprogrammer/overairdroid"				path="git/mandatoryprogrammer/overairdroid"															remote="githubmaster"/>
  <project  name="mandatoryprogrammer/PaperChaser"				path="git/mandatoryprogrammer/PaperChaser"															remote="githubmaster"/>
  <project  name="mandatoryprogrammer/PERS"					path="git/mandatoryprogrammer/PERS"																remote="githubmaster"/>
