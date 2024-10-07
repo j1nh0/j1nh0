@@ -79,9 +79,9 @@
  <project name="pdf_xls"			path="pdf/xls"/>
  <!--Q-->
  <project name="j1nh0"				path="q/j1nh0"/>
- <project name="eng_default"			path="q/eng_default"/>
- <project name="pdf_default"			path="q/pdf_default"/>
- <project name="vm_default"			path="q/vm_default"/>
+ <project name="eng"				path="q/eng"/>
+ <project name="pdf"				path="q/pdf"/>
+ <project name="vm"				path="q/vm"/>
  <project name="flipperdevices"			path="q/flipperdevices"/>
  <project name="RogueMaster"			path="q/RogueMaster"/>
  <!--VM-->
