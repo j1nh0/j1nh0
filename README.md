@@ -54,6 +54,8 @@ https://www.svgrepo.com/collections/
 <code>[<img height="40" src="/res/windows.svg">](https://microsoft.com/en-us)</code>&nbsp;
 <code>[<img height="40" src="/res/apple.svg">](https://www.apple.com)</code>&nbsp;
 <code>[<img height="40" src="/res/ubuntu.svg">](https://login.ubuntu.com)</code>&nbsp;
+<code>[<img height="40" src="/res/vmware.svg">](https://www.vmware.com/products/cloud-infrastructure/esxi-and-esx)</code>&nbsp;
+<code>[<img height="40" src="/res/proxmox.svg">](https://proxmox.com/en/)</code>&nbsp;
 <code>[<img height="40" src="/res/lineageos.svg">](https://download.lineageos.org)</code>&nbsp;
 <code>[<img height="40" src="/res/android.svg">](https://www.android.com)</code>&nbsp;
 <code>[<img height="40" src="/res/kali.svg">](https://www.kali.org)</code>&nbsp;
