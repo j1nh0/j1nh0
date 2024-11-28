@@ -1,0 +1,353 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+ <!--DEFINITIONS-->
+ <!--ORIGIN-->
+ <remote name="origin"			fetch=".."					revision="main"/>
+ <!--GITHUB-->
+ <remote name="github"			fetch="https://github.com"/>
+ <remote name="githubmain"		fetch="https://github.com"			revision="main"/>
+ <remote name="githubmaster"		fetch="https://github.com"			revision="master"/>
+ <remote name="githubdev"		fetch="https://github.com"			revision="dev"/>
+ <remote name="githubdevelopment"	fetch="https://github.com"			revision="development"/>
+ <!--GITLAB-->
+ <remote name="gitlab"			fetch="https://gitlab.com"/>
+ <remote name="gitlabmain"		fetch="https://gitlab.com"			revision="main"/>
+ <remote name="gitlabmaster"		fetch="https://gitlab.com"			revision="master"/>
+ <remote name="gitlabdev"		fetch="https://gitlab.com"			revision="dev"/>
+ <remote name="gitlabdevelopment"	fetch="https://gitlab.com"			revision="development"/>
+ <!--GITEA-->
+ <remote name="gitea"			fetch="http://gitea.local"/>
+ <remote name="giteamain"		fetch="http://gitea.local"			revision="main"/>
+ <remote name="giteamaster"		fetch="http://gitea.local"			revision="master"/>
+ <remote name="giteadev"		fetch="http://gitea.local"			revision="dev"/>
+ <remote name="giteadevelopment"	fetch="http://gitea.local"			revision="development"/>
+ <!--GIST-->
+ <remote name="gitgist"			fetch="https://gist.github.com"/>
+ <!--GOOGLE ANDROID-->
+ <remote name="googleandroid"		fetch="https://android.googlesource.com"/>
+ <remote name="googleandroidmaster"	fetch="https://android.googlesource.com"	revision="master"/>
+ <!--J1NH0-->
+ <remote name="j1nh0ssh"		fetch="ssh://git@github.com/j1nh0"		revision="main"/>
+ <remote name="j1nh0https"		fetch="https://github.com/j1nh0"		revision="main"/>
+ <!--DEFAULT BEHAVIOR-->
+ <default remote="j1nh0https"/>
+ <!--DEFAULT REPOS-->
+ <!--ENG-->
+ <project name="eng_3d"				path="eng/3d"/>
+ <project name="eng_altium"			path="eng/altium"/>
+ <project name="eng_stable-diffusion-webui"	path="eng/stable-diffusion-webui"/>
+ <project name="eng_stig"			path="eng/stig"/>
+ <!--LINX-->
+ <project name="linx"				path="linx"/>
+ <!--PDF-->
+ <project name="pdf_apple"			path="pdf/apple"/>
+ <project name="pdf_asimov"			path="pdf/asimov"/>
+ <project name="pdf_apt"			path="pdf/apt"/>
+ <project name="pdf_chroot"			path="pdf/chroot"/>
+ <project name="pdf_cis"			path="pdf/cis"/>
+ <project name="pdf_cmmc"			path="pdf/cmmc"/>
+ <project name="pdf_dnd"			path="pdf/dnd"/>
+ <project name="pdf_docker"			path="pdf/docker"/>
+ <project name="pdf_esxi"			path="pdf/esxi"/>
+ <project name="pdf_etc"			path="pdf/etc"/>
+ <project name="pdf_firefox"			path="pdf/firefox"/>
+ <project name="pdf_gcc"			path="pdf/gcc"/>
+ <project name="pdf_git"			path="pdf/git"/>
+ <project name="pdf_google"			path="pdf/google"/>
+ <project name="pdf_jakcom"			path="pdf/jakcom"/>
+ <project name="pdf_kali"			path="pdf/kali"/>
+ <project name="pdf_luks"			path="pdf/luks"/>
+ <project name="pdf_mil"			path="pdf/mil"/>
+ <project name="pdf_minecraft"			path="pdf/minecraft"/>
+ <project name="pdf_nist"			path="pdf/nist"/>
+ <project name="pdf_nmap"			path="pdf/nmap"/>
+ <project name="pdf_openssl"			path="pdf/openssl"/>
+ <project name="pdf_pfsense"			path="pdf/pfsense"/>
+ <project name="pdf_proxmox"			path="pdf/proxmox"/>
+ <project name="pdf_qemu"			path="pdf/qemu"/>
+ <project name="pdf_qr"				path="pdf/qr"/>
+ <project name="pdf_rpi"			path="pdf/rpi"/>
+ <project name="pdf_scuba"			path="pdf/scuba"/>
+ <project name="pdf_sql"			path="pdf/sql"/>
+ <project name="pdf_ssh"			path="pdf/ssh"/>
+ <project name="pdf_tcpip"			path="pdf/tcpip"/>
+ <project name="pdf_trig"			path="pdf/trig"/>
+ <project name="pdf_txt"			path="pdf/txt"/>
+ <project name="pdf_ubuntu"			path="pdf/ubuntu"/>
+ <project name="pdf_veracrypt"			path="pdf/veracrypt"/>
+ <project name="pdf_windows"			path="pdf/windows"/>
+ <project name="pdf_xls"			path="pdf/xls"/>
+ <!--Q-->
+ <project name="j1nh0"				path="q/j1nh0"/>
+ <project name="eng"				path="q/eng"/>
+ <project name="pdf"				path="q/pdf"/>
+ <project name="vm"				path="q/vm"/>
+ <project name="flipperdevices"			path="q/flipperdevices"/>
+ <project name="RogueMaster"			path="q/RogueMaster"/>
+ <!--VM-->
+ <project name="vm_vmware_android"              path="vm/vmware/android"/>
+ <project name="vm_vmware_linux_player"         path="vm/vmware/linux/player"/>
+ <project name="vm_vmware_linux_tools"          path="vm/vmware/linux/tools"/>
+ <project name="vm_vmware_linux_vmrc"           path="vm/vmware/linux/vmrc"/>
+ <project name="vm_vmware_linux_workstation"    path="vm/vmware/linux/workstation"/>
+ <project name="vm_vmware_macos"                path="vm/vmware/macos"/>
+ <project name="vm_vmware_vms"			path="vm/vmware/vms"/>
+ <project name="vm_vmware_windows_converter"    path="vm/vmware/windows/converter"/>
+ <project name="vm_vmware_windows_player"       path="vm/vmware/windows/player"/>
+ <project name="vm_vmware_windows_tools"        path="vm/vmware/windows/tools"/>
+ <project name="vm_vmware_windows_vmrc"         path="vm/vmware/windows/vmrc"/>
+ <project name="vm_vmware_windows_workstation"  path="vm/vmware/windows/workstation"/>
+ <!--WIND-->
+ <project name="wind"				path="wind"/>
+ <!--UMBRELLA CORP-->
+ <!--GITHUB-->
+ <project name="AUTOMATIC1111/stable-diffusion-webui"                   	path="git/stable-diffusion-webui"                                                                                                                               remote="githubmaster"/>
+ <project name="bacher09/pwgen-for-bios"                                	path="git/pwgen-for-bios"                                                                                                                                       remote="githubmain"/>
+ <project name="ChrisRfr/Win10XPE"                                      	path="git/Win10XPE"                                                                                                                                             remote="githubmaster"/>
+ <project name="dogbert/bios-pwgen"                                     	path="git/bios-pwgen"                                                                                                                                           remote="githubmaster"/>
+ <project name="google/adb-sync"						path="git/adb-sync"																		remote="githubmaster"/>
+ <project name="GraphiteEditor/Graphite"					path="git/Graphite"																		remote="githubmaster"/>
+ <project name="hak5/usbrubberducky-payloads"                           	path="git/usbrubberducky-payloads"                                                                                                                              remote="githubmaster"/>
+ <project name="INT3NSE07/better-adb-sync"                              	path="git/better-adb-sync"                                                                                                                                      remote="githubmain"/>
+ <project name="issus/altium-library"                                   	path="git/altium-library"                                                                                                                                       remote="githubmaster"/>
+ <project name="jackpal/Android-Terminal-Emulator"                      	path="git/Android-Terminal-Emulator"                                                                                                                            remote="githubmaster"/>
+ <project name="LineageOS/scripts"                                      	path="git/scripts"                                                                                                                                              remote="githubmain"/>
+ <project name="logickworkshop/Flipper-IRDB"                            	path="git/Flipper-IRDB"                                                                                                                                         remote="githubmain"/>
+ <project name="NagiosEnterprises/nagioscore"                           	path="git/nagioscore"                                                                                                                                           remote="githubmaster"/>
+ <project name="NationalSecurityAgency/ghidra"					path="git/ghidra"																		remote="githubmaster"/>
+ <project name="newsoft/sqlite3-dbx"                                    	path="git/sqlite3-dbx"                                                                                                                                          remote="githubmaster"/>
+ <project name="SoftFever/OrcaSlicer"                                   	path="git/OrcaSlicer"                                                                                                                                           remote="githubmain"/>
+ <project name="sqlitebrowser/sqlitebrowser"					path="git/sqlbrowser"																		remote="githubmaster"/>
+ <project name="TheMuppets/manifests"                                   	path="git/manifests"                                                                                                                                            remote="github"                 revision="lineage-21.0"/>
+ <project name="torvalds/linux"							path="git/linux"																		remote="githubmaster"/>
+ <project name="upscayl/upscayl"						path="git/upscayl"																		remote="githubmain"/>
+ <!--GITLAB-->
+ <project name="MindTheGapps/vendor_gapps"					path="git/vendor_gapps"																		remote="gitlab"			revision="upsilon"/>
+ <!--GIST-->
+ <project name="aallan/b4bb86db86079509e6159810ae9bd3e4"			path="git/mac-vendor"																		remote="gitgist"		revision="846ae1b646ab0f4d646af9115e47365f4118e5f6"/>
+ <!--RIKKA APPS-->
+ <project name="RikkaApps/Riru"							path="git/RikkaApps/Riru"																	remote="githubmaster"/>
+ <project name="RikkaApps/Sui"							path="git/RikkaApps/Sui"																	remote="githubmaster"/>
+ <project name="RikkaApps/Shizuku"						path="git/RikkaApps/Shizuku"																	remote="githubmaster"/>
+ <!--MAGISK-->	
+ <project name="topjohnwu/Magisk"						path="git/Magisk"																		remote="githubmaster"/>
+ <project name="topjohnwu/ndk-busybox"						path="git/Magisk/native/src/external/busybox"															remote="github"			revision="android-ndk-1.36.1"/>
+ <project name="nemequ/bzip2"							path="git/Magisk/native/src/external/bzip2"															remote="githubmaster"/>
+ <project name="topjohnwu/crt0"							path="git/Magisk/native/src/external/crt0"															remote="githubmaster"/>
+ <project name="topjohnwu/cxx"							path="git/Magisk/native/src/external/cxx-rs"															remote="githubmaster"/>
+ <project name="topjohnwu/libcxx"						path="git/Magisk/native/src/external/libcxx"															remote="githubmaster"/>
+ <project name="LSPosed/LSPlt"							path="git/Magisk/native/src/external/lsplt"															remote="githubmaster"/>
+ <project name="lz4/lz4"							path="git/Magisk/native/src/external/lz4"															remote="githubdev"/>
+ <project name="platform/external/pcre"						path="git/Magisk/native/src/external/pcre"															remote="googleandroidmaster"/>
+ <project name="topjohnwu/selinux"						path="git/Magisk/native/src/external/selinux"															remote="githubmaster"/>
+ <project name="topjohnwu/system_properties"					path="git/Magisk/native/src/external/system_properties"														remote="githubmaster"/>
+ <project name="xz-mirror/xz"							path="git/Magisk/native/src/external/xz"															remote="githubmaster"/>
+ <project name="platform/external/zlib"						path="git/Magisk/native/src/external/zlib"															remote="googleandroidmaster"/>
+ <project name="google/zopfli"							path="git/Magisk/native/src/external/zopfli"															remote="githubmaster"/>
+ <project name="termux/termux-elf-cleaner"					path="git/Magisk/tools/termux-elf-cleaner"															remote="githubmaster"/>
+ <!--NOMISEC-->
+ <project  name="nomi-sec/CVE-Easy-List"					path="git/nomi-sec/CVE-Easy-List"																remote="githubmaster"/>
+ <project  name="nomi-sec/Hacker-Trends"					path="git/nomi-sec/Hacker-Trends"																remote="githubmain"/>
+ <project  name="nomi-sec/NVD-Database"						path="git/nomi-sec/NVD-Database"																remote="githubmaster"/>
+ <project  name="nomi-sec/NVD-Exploit-List-Ja"					path="git/nomi-sec/NVD-Exploit-List-Ja"																remote="githubmaster"/>
+ <project  name="nomi-sec/PoC-in-GitHub"					path="git/nomi-sec/PoC-in-GitHub"																remote="githubmaster"/>
+ <!--OOAFA-->
+ <project  name="OOAFA/OOAFASecLists"						path="git/OOAFA/OOAFASecLists"																	remote="githubmain"/>
+ <project  name="OOAFA/squeegee"						path="git/OOAFA/squeegee"																	remote="githubmain"/>
+ <!--MANDATORYPROGRAMMER-->
+ <project  name="mandatoryprogrammer/BARTHue"					path="git/mandatoryprogrammer/BARTHue"																remote="githubmaster"/>
+ <project  name="mandatoryprogrammer/chrome-extension-manifests-dataset"	path="git/mandatoryprogrammer/chrome-extension-manifests-dataset"												remote="githubmaster"/>
+ <project  name="mandatoryprogrammer/ChromeGalvanizer"				path="git/mandatoryprogrammer/ChromeGalvanizer"															remote="githubmaster"/>
+ <project  name="mandatoryprogrammer/cloudflare_enum"				path="git/mandatoryprogrammer/cloudflare_enum"															remote="githubmaster"/>
+ <project  name="mandatoryprogrammer/comfortably-run"				path="git/mandatoryprogrammer/comfortably-run"															remote="githubmain"/>
+ <project  name="mandatoryprogrammer/cordova-replay"				path="git/mandatoryprogrammer/cordova-replay"															remote="githubmaster"/>
+ <project  name="mandatoryprogrammer/CSP-Bypass"				path="git/mandatoryprogrammer/CSP-Bypass"															remote="githubmaster"/>
+ <project  name="mandatoryprogrammer/ctf_tools"					path="git/mandatoryprogrammer/ctf_tools"															remote="githubmaster"/>
+ <project  name="mandatoryprogrammer/CursedChrome"				path="git/mandatoryprogrammer/CursedChrome"															remote="githubmaster"/>
+ <project  name="mandatoryprogrammer/dig-lambda-layer"				path="git/mandatoryprogrammer/dig-lambda-layer"															remote="githubmaster"/>
+ <project  name="mandatoryprogrammer/dotfiles"					path="git/mandatoryprogrammer/dotfiles"																remote="githubmaster"/>
+ <project  name="mandatoryprogrammer/droidbrute"				path="git/mandatoryprogrammer/droidbrute"															remote="githubmaster"/>
+ <project  name="mandatoryprogrammer/elasticbeanstalk-base"			path="git/mandatoryprogrammer/elasticbeanstalk-base"														remote="githubmaster"/>
+ <project  name="mandatoryprogrammer/FileURISecurity"				path="git/mandatoryprogrammer/FileURISecurity"															remote="githubmaster"/>
+ <project  name="mandatoryprogrammer/FlashHTTPRequest"				path="git/mandatoryprogrammer/FlashHTTPRequest"															remote="githubmaster"/>
+ <project  name="mandatoryprogrammer/JudasDNS"					path="git/mandatoryprogrammer/JudasDNS"																remote="githubmaster"/>
+ <project  name="mandatoryprogrammer/lambda-intruder"				path="git/mandatoryprogrammer/lambda-intruder"															remote="githubmaster"/>
+ <project  name="mandatoryprogrammer/LavaHadoopCrawlAnalysis"			path="git/mandatoryprogrammer/LavaHadoopCrawlAnalysis"														remote="githubmaster"/>
+ <project  name="mandatoryprogrammer/Metafid-Base"				path="git/mandatoryprogrammer/Metafid-Base"															remote="githubmaster"/>
+ <project  name="mandatoryprogrammer/mygithubpage"				path="git/mandatoryprogrammer/mygithubpage"															remote="githubmaster"/>
+ <project  name="mandatoryprogrammer/NorthKoreaDNSLeak"				path="git/mandatoryprogrammer/NorthKoreaDNSLeak"														remote="githubmaster"/>
+ <project  name="mandatoryprogrammer/overairdroid"				path="git/mandatoryprogrammer/overairdroid"															remote="githubmaster"/>
+ <project  name="mandatoryprogrammer/PaperChaser"				path="git/mandatoryprogrammer/PaperChaser"															remote="githubmain"/>
+ <project  name="mandatoryprogrammer/PERS"					path="git/mandatoryprogrammer/PERS"																remote="githubmaster"/>
+ <project  name="mandatoryprogrammer/RAGE"					path="git/mandatoryprogrammer/RAGE"																remote="githubmaster"/>
+ <project  name="mandatoryprogrammer/redis"					path="git/mandatoryprogrammer/redis"																remote="githubmaster"/>
+ <project  name="mandatoryprogrammer/RussiaDNSLeak"				path="git/mandatoryprogrammer/RussiaDNSLeak"															remote="githubmaster"/>
+ <project  name="mandatoryprogrammer/signal-bot"				path="git/mandatoryprogrammer/signal-bot"															remote="githubmaster"/>
+ <!--FLIPPER-->
+ <project name="flipperdevices/flipperzero-firmware"				path="git/flipperzero-firmware"																	remote="githubdev"/>
+ <project name="flipperdevices/flipperzero-protobuf"				path="git/flipperzero-firmware/assets/protobuf"															remote="githubdev"/>
+ <project name="jothepro/doxygen-awesome-css"					path="git/flipperzero-firmware/documentation/doxygen/doxygen-awesome-css"											remote="githubmain"/>
+ <project name="FreeRTOS/FreeRTOS-Kernel"					path="git/flipperzero-firmware/lib/FreeRTOS-Kernel"														remote="githubmain"/>
+ <project name="FreeRTOS/FreeRTOS-Kernel-Community-Supported-Ports"		path="git/flipperzero-firmware/lib/FreeRTOS-Kernel/portable/ThirdParty/Community-Supported-Ports"								remote="githubmain"/>
+ <project name="FreeRTOS/FreeRTOS-Kernel-Partner-Supported-Ports"		path="git/flipperzero-firmware/lib/FreeRTOS-Kernel/portable/ThirdParty/Partner-Supported-Ports"									remote="githubmain"/>
+ <project name="robotpy/cxxheaderparser"					path="git/flipperzero-firmware/lib/cxxheaderparser"														remote="githubmain"/>
+ <project name="flipperdevices/heatshrink"					path="git/flipperzero-firmware/lib/heatshrink"															remote="githubmaster"/>
+ <project name="flipperdevices/libusb_stm32"					path="git/flipperzero-firmware/lib/libusb_stm32"														remote="githubmaster"/>
+ <project name="littlefs-project/littlefs"					path="git/flipperzero-firmware/lib/littlefs"															remote="githubmaster"/>
+ <project name="Mbed-TLS/mbedtls"						path="git/flipperzero-firmware/lib/mbedtls"															remote="githubdevelopment"/>
+ <project name="Mbed-TLS/mbedtls-framework"					path="git/flipperzero-firmware/lib/mbedtls/framework"														remote="githubmain"/>
+ <project name="amachronic/microtar"						path="git/flipperzero-firmware/lib/microtar"															remote="githubmaster"/>
+ <project name="P-p-H-d/mlib"							path="git/flipperzero-firmware/lib/mlib"															remote="githubmaster"/>
+ <project name="nanopb/nanopb"							path="git/flipperzero-firmware/lib/nanopb"															remote="githubmaster"/>
+ <project name="STMicroelectronics/cmsis_device_wb"				path="git/flipperzero-firmware/lib/st_cmsis_device_wb"														remote="githubmaster"/>
+ <project name="flipperdevices/stm32wb_copro"					path="git/flipperzero-firmware/lib/stm32wb_copro"														remote="githubdev"/>
+ <project name="flipperdevices/stm32wb_copro_scripts"				path="git/flipperzero-firmware/lib/stm32wb_copro/scripts"													remote="githubdev"/>
+ <project name="STMicroelectronics/stm32wbxx_hal_driver"			path="git/flipperzero-firmware/lib/stm32wbxx_hal_driver"													remote="githubmaster"/>
+ <!--NEVERFA11ING-->
+ <project name="neverfa11ing/FlipperMusicRTTTL"					path="git/neverfa11ing/FlipperMusicRTTTL"															remote="githubmain"/>
+ <project name="neverfa11ing/FlipperAmiibosNFC"					path="git/neverfa11ing/FlipperAmiibosNFC"															remote="githubmain"/>
+ <!--ROGUEMASTER-->
+ <!--RMMISC-->
+ <project name="RogueMaster/FlipperAmiibo"					path="git/RogueMaster/FlipperAmiibo"																remote="githubmain"/>
+ <project name="RogueMaster/flippermaker.github.io"				path="git/RogueMaster/flippermaker.github.io"															remote="githubmain"/>
+ <project name="neverfa11ing/FlipperMusicRTTTL"					path="git/RogueMaster/awesome-flipperzero-withModules/music_player"												remote="githubmain"/>
+ <project name="RogueMaster/FlipperAmiibo"					path="git/RogueMaster/awesome-flipperzero-withModules/nfc/Amiibo"												remote="githubmain"/>
+ <project name="Lanjelin/AmiiboConverter"					path="git/RogueMaster/awesome-flipperzero-withModules/scripts/AmiboConverterV2"											remote="githubmain"/>
+ <project name="qqmajikpp/FBT-AARCH64"						path="git/RogueMaster/awesome-flipperzero-withModules/scripts/FBT-AARCH64"											remote="githubmain"/>
+ <project name="qqmajikpp/Logi-Downgrade-for-NRF24"				path="git/RogueMaster/awesome-flipperzero-withModules/scripts/Logi-Downgrade-for-NRF24"										remote="githubmain"/>
+ <project name="DroomOne/FlipperScripts"					path="git/RogueMaster/awesome-flipperzero-withModules/scripts/dolphin_state"											remote="githubmain"/>
+ <project name="FroggMaster/ESP32-Wi-Fi-Penetration-Tool"			path="git/RogueMaster/awesome-flipperzero-withModules/wifiPenTool"												remote="github"			revision="flipper"/>
+ <!--RMPLUGINS-->
+ <project name="RogueMaster/flipperzero-firmware-wPlugins"			path="git/RogueMaster/flipperzero-firmware-wPlugins"														remote="github"			revision="420"/>
+ <project name="FreeRTOS/FreeRTOS-Kernel"					path="git/RogueMaster/flipperzero-firmware-wPlugins/lib/FreeRTOS-Kernel"											remote="githubmain"/>
+ <project name="FreeRTOS/FreeRTOS-Kernel-Community-Supported-Ports"		path="git/RogueMaster/flipperzero-firmware-wPlugins/lib/FreeRTOS-Kernel/portable/ThirdParty/Community-Supported-Ports"						remote="githubmain"/>
+ <project name="FreeRTOS/FreeRTOS-Kernel-Partner-Supported-Ports"		path="git/RogueMaster/flipperzero-firmware-wPlugins/lib/FreeRTOS-Kernel/portable/ThirdParty/Partner-Supported-Ports"						remote="githubmain"/>
+ <project name="robotpy/cxxheaderparser"					path="git/RogueMaster/flipperzero-firmware-wPlugins/lib/cxxheaderparser"											remote="githubmain"/>
+ <project name="flipperdevices/heatshrink"					path="git/RogueMaster/flipperzero-firmware-wPlugins/lib/heatshrink"												remote="githubmaster"/>
+ <project name="flipperdevices/libusb_stm32"					path="git/RogueMaster/flipperzero-firmware-wPlugins/lib/libusb_stm32"												remote="githubmaster"/>
+ <project name="littlefs-project/littlefs"					path="git/RogueMaster/flipperzero-firmware-wPlugins/lib/littlefs"												remote="githubmaster"/>
+ <project name="Mbed-TLS/mbedtls"						path="git/RogueMaster/flipperzero-firmware-wPlugins/lib/mbedtls"												remote="githubdevelopment"/>
+ <project name="Mbed-TLS/mbedtls-framework"					path="git/RogueMaster/flipperzero-firmware-wPlugins/lib/mbedtls/framework"											remote="githubmain"/>
+ <project name="amachronic/microtar"						path="git/RogueMaster/flipperzero-firmware-wPlugins/lib/microtar"												remote="githubmaster"/>
+ <project name="P-p-H-d/mlib"							path="git/RogueMaster/flipperzero-firmware-wPlugins/lib/mlib"													remote="githubmaster"/>
+ <project name="nanopb/nanopb"							path="git/RogueMaster/flipperzero-firmware-wPlugins/lib/nanopb"													remote="githubmaster"/>
+ <project name="STMicroelectronics/cmsis_device_wb"				path="git/RogueMaster/flipperzero-firmware-wPlugins/lib/stm32wb_cmsis"												remote="githubmaster"/>
+ <project name="flipperdevices/stm32wb_copro"					path="git/RogueMaster/flipperzero-firmware-wPlugins/lib/stm32wb_copro"												remote="githubdev"/>
+ <project name="flipperdevices/stm32wb_copro_scripts"				path="git/RogueMaster/flipperzero-firmware-wPlugins/lib/stm32wb_copro/scripts"											remote="githubdev"/>
+ <project name="STMicroelectronics/stm32wbxx_hal_driver"			path="git/RogueMaster/flipperzero-firmware-wPlugins/lib/stm32wb_hal"												remote="githubmaster"/>
+ <project name="espressif/tlsf"							path="git/RogueMaster/flipperzero-firmware-wPlugins/lib/tlsf"													remote="github"			revision="idf"/>
+ <project name="pfalcon/uzlib"							path="git/RogueMaster/flipperzero-firmware-wPlugins/lib/uzlib"													remote="githubmaster"/>
+ <!--RMMODULES-->
+ <project name="RogueMaster/awesome-flipperzero-withModules"			path="git/RogueMaster/awesome-flipperzero-withModules"														remote="github"			revision="rogue_main"/>
+ <!--RMPLAYGROUND-->
+ <project name="UberGuidoZ/Flipper"						path="git/RogueMaster/awesome-flipperzero-withModules/PLAYGROUND"												remote="githubmain"/>
+ <project name="ooovenenoso/BadUSB-GPT"						path="git/RogueMaster/awesome-flipperzero-withModules/PLAYGROUND/BadUSB/BadGPT"											remote="githubmain"/>
+ <project name="FalsePhilosopher/BadUSB-Playground"				path="git/RogueMaster/awesome-flipperzero-withModules/PLAYGROUND/BadUSB/BadUSB-FalsePhilosopher"								remote="githubmain"/>
+ <project name="FalsePhilosopher/badusb"					path="git/RogueMaster/awesome-flipperzero-withModules/PLAYGROUND/BadUSB/FalsePhilosopher"									remote="githubmain"/>
+ <project name="Peaakss/iOS-Payloads"						path="git/RogueMaster/awesome-flipperzero-withModules/PLAYGROUND/BadUSB/BadUSB-FalsePhilosopher/Ducky/USBRubberducky/mobile/iOS"				remote="github"			revision="O.MG/ALL"/>
+ <project name="nocomp/Flipper_Zero_Badusb_hack5_payloads"			path="git/RogueMaster/awesome-flipperzero-withModules/PLAYGROUND/BadUSB/Flipper_Zero_Badusb_hack5_payloads"							remote="githubmain"/>
+ <project name="I-Am-Jakoby/Flipper-Zero-BadUSB"				path="git/RogueMaster/awesome-flipperzero-withModules/PLAYGROUND/BadUSB/Jakoby_BadUSB"										remote="githubmain"/>
+ <project name="Kavitate/FlipperZeroBadUSB"					path="git/RogueMaster/awesome-flipperzero-withModules/PLAYGROUND/BadUSB/Kavitate-BadUSB"									remote="githubmain"/>
+ <project name="grugnoymeme/flipperzero-badUSB"					path="git/RogueMaster/awesome-flipperzero-withModules/PLAYGROUND/BadUSB/MacOS-47LeCoste"									remote="githubmain"/>
+ <project name="atomiczsec/My-Payloads"						path="git/RogueMaster/awesome-flipperzero-withModules/PLAYGROUND/BadUSB/atomiczsec-BadUSB"									remote="githubmain"/>
+ <project name="Haseosama/FZ_Animations"					path="git/RogueMaster/awesome-flipperzero-withModules/PLAYGROUND/Graphics/Haseosama"										remote="githubmain"/>
+ <project name="HexxedBitHeadz/FlipperZeroWallpaper"				path="git/RogueMaster/awesome-flipperzero-withModules/PLAYGROUND/Graphics/HexxedBitHeadz"									remote="githubmain"/>
+ <project name="Kuronons/FZ_graphics"						path="git/RogueMaster/awesome-flipperzero-withModules/PLAYGROUND/Graphics/Kuronons"										remote="githubmain"/>
+ <project name="synthetikspace/SynthetikSpace-FZ-Animations"			path="git/RogueMaster/awesome-flipperzero-withModules/PLAYGROUND/Graphics/SynthetikSpace"									remote="githubmain"/>
+ <project name="skizzophrenic/Talking-Sasquach"					path="git/RogueMaster/awesome-flipperzero-withModules/PLAYGROUND/Graphics/TalkingSasquach"									remote="githubmain"/>
+ <project name="mnenkov/flipper-zero-animations"				path="git/RogueMaster/awesome-flipperzero-withModules/PLAYGROUND/Graphics/mnenkov"										remote="githubmain"/>
+ <project name="logickworkshop/Flipper-IRDB"					path="git/RogueMaster/awesome-flipperzero-withModules/PLAYGROUND/Infrared/IRDB"											remote="githubmain"/>
+ <project name="Gioman101/FlipperAmiibo"					path="git/RogueMaster/awesome-flipperzero-withModules/PLAYGROUND/NFC/Amiibo/Amiibo_Collection"									remote="githubmain"/>
+ <project name="FalsePhilosopher/Flipper-Infinity"				path="git/RogueMaster/awesome-flipperzero-withModules/PLAYGROUND/NFC/Amiibo/Infinity-FalsePhilosopher"								remote="githubmain"/>
+ <project name="Lanjelin/AmiiboConverter"					path="git/RogueMaster/awesome-flipperzero-withModules/PLAYGROUND/NFC/Amiibo/Lanjelin-Converter"									remote="githubmain"/>
+ <project name="w0lfzk1n/Flipper-Zero-NFC-Trolls"				path="git/RogueMaster/awesome-flipperzero-withModules/PLAYGROUND/NFC/NFC-Trolls"										remote="githubmain"/>
+ <project name="jimilinuxguy/customer-assistance-buttons-sdr"			path="git/RogueMaster/awesome-flipperzero-withModules/PLAYGROUND/Sub-GHz/Customer_Assistance_Buttons/Jimi-Cust-Buttons"						remote="githubmain"/>
+ <project name="jimilinuxguy/lrs-pager-systems-bruteforce"			path="git/RogueMaster/awesome-flipperzero-withModules/PLAYGROUND/Sub-GHz/Restaurant_Pagers/LRS_Pagers/thanks_jimilinuxguy/lrs-pager-systems-bruteforce"		remote="githubmain"/>
+ <project name="meoker/pagger"							path="git/RogueMaster/awesome-flipperzero-withModules/PLAYGROUND/Sub-GHz/Restaurant_Pagers/Pagger-Generator"							remote="githubmain"/>
+ <project name="Crsarmv7l/TPMS-Flipper"						path="git/RogueMaster/awesome-flipperzero-withModules/PLAYGROUND/Sub-GHz/Vehicles/TPMS-Flipper"									remote="githubmain"/>
+ <project name="evilpete/flipper_toolbox"					path="git/RogueMaster/awesome-flipperzero-withModules/PLAYGROUND/flipper_toolbox"										remote="githubmain"/>
+ <!--RMBADUSB-->
+ <project name="CharlesTheGreat77/BADUSB"					path="git/RogueMaster/awesome-flipperzero-withModules/badusb/CharlesTheGreat77"											remote="githubmain"/>
+ <project name="aleff-github/my-flipper-shits"					path="git/RogueMaster/awesome-flipperzero-withModules/badusb/FlipperShits"											remote="githubmain"/>
+ <!--RMFW-->
+ <project name="flipperdevices/flipper-application-catalog"			path="git/RogueMaster/awesome-flipperzero-withModules/fw/OFW-APP-CATALOG"											remote="githubmain"/>
+ <project name="flipperdevices/flipperzero-good-faps"				path="git/RogueMaster/awesome-flipperzero-withModules/fw/OFW-GOOD-FAPS"												remote="githubdev"/>
+ <project name="flipperdevices/flipperzero-game-engine"				path="git/RogueMaster/awesome-flipperzero-withModules/fw/OFW-GOOD-FAPS/air_arkanoid/engine"									remote="githubdev"/>
+ <!--RMOFW-->
+ <project name="flipperdevices/flipperzero-firmware"				path="git/RogueMaster/awesome-flipperzero-withModules/fw/OFW"													remote="githubdev"/>
+ <project name="flipperdevices/flipperzero-protobuf"				path="git/RogueMaster/awesome-flipperzero-withModules/fw/OFW/assets/protobuf"											remote="githubdev"/>
+ <project name="jothepro/doxygen-awesome-css"					path="git/RogueMaster/awesome-flipperzero-withModules/fw/OFW/documentation/doxygen/doxygen-awesome-css"								remote="githubmain"/>
+ <project name="FreeRTOS/FreeRTOS-Kernel"					path="git/RogueMaster/awesome-flipperzero-withModules/fw/OFW/lib/FreeRTOS-Kernel"										remote="githubmain"/>
+ <project name="FreeRTOS/FreeRTOS-Kernel-Community-Supported-Ports"		path="git/RogueMaster/awesome-flipperzero-withModules/fw/OFW/lib/FreeRTOS-Kernel/portable/ThirdParty/Community-Supported-Ports"					remote="githubmain"/>
+ <project name="FreeRTOS/FreeRTOS-Kernel-Partner-Supported-Ports"		path="git/RogueMaster/awesome-flipperzero-withModules/fw/OFW/lib/FreeRTOS-Kernel/portable/ThirdParty/Partner-Supported-Ports"					remote="githubmain"/>
+ <project name="robotpy/cxxheaderparser"					path="git/RogueMaster/awesome-flipperzero-withModules/fw/OFW/lib/cxxheaderparser"										remote="githubmain"/>
+ <project name="flipperdevices/heatshrink"					path="git/RogueMaster/awesome-flipperzero-withModules/fw/OFW/lib/heatshrink"											remote="githubmaster"/>
+ <project name="flipperdevices/libusb_stm32"					path="git/RogueMaster/awesome-flipperzero-withModules/fw/OFW/lib/libusb_stm32"											remote="githubmaster"/>
+ <project name="littlefs-project/littlefs"					path="git/RogueMaster/awesome-flipperzero-withModules/fw/OFW/lib/littlefs"											remote="githubmaster"/>
+ <project name="Mbed-TLS/mbedtls"						path="git/RogueMaster/awesome-flipperzero-withModules/fw/OFW/lib/mbedtls"											remote="githubdevelopment"/>
+ <project name="Mbed-TLS/mbedtls-framework"					path="git/RogueMaster/awesome-flipperzero-withModules/fw/OFW/lib/mbedtls/framework"										remote="githubmain"/>
+ <project name="amachronic/microtar"						path="git/RogueMaster/awesome-flipperzero-withModules/fw/OFW/lib/microtar"											remote="githubmaster"/>
+ <project name="P-p-H-d/mlib"							path="git/RogueMaster/awesome-flipperzero-withModules/fw/OFW/lib/mlib"												remote="githubmaster"/>
+ <project name="nanopb/nanopb"							path="git/RogueMaster/awesome-flipperzero-withModules/fw/OFW/lib/nanopb"											remote="githubmaster"/>
+ <project name="STMicroelectronics/cmsis_device_wb"				path="git/RogueMaster/awesome-flipperzero-withModules/fw/OFW/lib/stm32wb_cmsis"											remote="githubmaster"/>
+ <project name="flipperdevices/stm32wb_copro"					path="git/RogueMaster/awesome-flipperzero-withModules/fw/OFW/lib/stm32wb_copro"											remote="githubdev"/>
+ <project name="flipperdevices/stm32wb_copro_scripts"				path="git/RogueMaster/awesome-flipperzero-withModules/fw/OFW/lib/stm32wb_copro/scripts"										remote="githubdev"/>
+ <project name="STMicroelectronics/stm32wbxx_hal_driver"			path="git/RogueMaster/awesome-flipperzero-withModules/fw/OFW/lib/stm32wb_hal"											remote="githubmaster"/>
+ <!--RMWAPPS-->
+ <project name="RogueMaster/flipperzero-firmware-wPlugins"			path="git/RogueMaster/awesome-flipperzero-withModules/fw/RogueMasterWApps"											remote="github"			revision="420"/>
+ <project name="flipperdevices/flipperzero-protobuf"				path="git/RogueMaster/awesome-flipperzero-withModules/fw/RogueMasterWApps/assets/protobuf"									remote="githubdev"/>
+ <project name="FreeRTOS/FreeRTOS-Kernel"					path="git/RogueMaster/awesome-flipperzero-withModules/fw/RogueMasterWApps/lib/FreeRTOS-Kernel"									remote="githubmain"/>
+ <project name="FreeRTOS/FreeRTOS-Kernel-Community-Supported-Ports"		path="git/RogueMaster/awesome-flipperzero-withModules/fw/RogueMasterWApps/lib/FreeRTOS-Kernel/portable/ThirdParty/Community-Supported-Ports"			remote="githubmain"/>
+ <project name="FreeRTOS/FreeRTOS-Kernel-Partner-Supported-Ports"		path="git/RogueMaster/awesome-flipperzero-withModules/fw/RogueMasterWApps/lib/FreeRTOS-Kernel/portable/ThirdParty/Partner-Supported-Ports"			remote="githubmain"/>
+ <project name="robotpy/cxxheaderparser"					path="git/RogueMaster/awesome-flipperzero-withModules/fw/RogueMasterWApps/lib/cxxheaderparser"									remote="githubmain"/>
+ <project name="flipperdevices/heatshrink"					path="git/RogueMaster/awesome-flipperzero-withModules/fw/RogueMasterWApps/lib/heatshrink"									remote="githubmaster"/>
+ <project name="flipperdevices/libusb_stm32"					path="git/RogueMaster/awesome-flipperzero-withModules/fw/RogueMasterWApps/lib/libusb_stm32"									remote="githubmaster"/>
+ <project name="littlefs-project/littlefs"					path="git/RogueMaster/awesome-flipperzero-withModules/fw/RogueMasterWApps/lib/littlefs"										remote="githubmaster"/>
+ <project name="Mbed-TLS/mbedtls"						path="git/RogueMaster/awesome-flipperzero-withModules/fw/RogueMasterWApps/lib/mbedtls"										remote="githubdevelopment"/>
+ <project name="amachronic/microtar"						path="git/RogueMaster/awesome-flipperzero-withModules/fw/RogueMasterWApps/lib/microtar"										remote="githubmaster"/>
+ <project name="P-p-H-d/mlib"							path="git/RogueMaster/awesome-flipperzero-withModules/fw/RogueMasterWApps/lib/mlib"										remote="githubmaster"/>
+ <project name="nanopb/nanopb"							path="git/RogueMaster/awesome-flipperzero-withModules/fw/RogueMasterWApps/lib/nanopb"										remote="githubmaster"/>
+ <project name="STMicroelectronics/cmsis_device_wb"				path="git/RogueMaster/awesome-flipperzero-withModules/fw/RogueMasterWApps/lib/stm32wb_cmsis"									remote="githubmaster"/>
+ <project name="flipperdevices/stm32wb_copro"					path="git/RogueMaster/awesome-flipperzero-withModules/fw/RogueMasterWApps/lib/stm32wb_copro"									remote="githubdev"/>
+ <project name="flipperdevices/stm32wb_copro_scripts"				path="git/RogueMaster/awesome-flipperzero-withModules/fw/RogueMasterWApps/lib/stm32wb_copro/scripts"								remote="githubdev"/>
+ <project name="STMicroelectronics/stm32wbxx_hal_driver"			path="git/RogueMaster/awesome-flipperzero-withModules/fw/RogueMasterWApps/lib/stm32wb_hal"									remote="githubmaster"/>
+ <project name="espressif/tlsf"							path="git/RogueMaster/awesome-flipperzero-withModules/fw/RogueMasterWApps/lib/tlsf"										remote="github"       revision="idf"/>
+ <project name="pfalcon/uzlib"							path="git/RogueMaster/awesome-flipperzero-withModules/fw/RogueMasterWApps/lib/uzlib"										remote="githubmaster"/>
+ <!--RMULPLUGINS-->
+ <project name="xMasterX/all-the-plugins"					path="git/RogueMaster/awesome-flipperzero-withModules/fw/UL-PLUGINS"												remote="githubdev"/>
+ <project name="DarkFlippers/Multi_Fuzzer"					path="git/RogueMaster/awesome-flipperzero-withModules/fw/UL-PLUGINS/base_pack/multi_fuzzer"									remote="githubdev"/>
+ <project name="DarkFlippers/flipperzero-subbrute"				path="git/RogueMaster/awesome-flipperzero-withModules/fw/UL-PLUGINS/base_pack/subbrute"										remote="githubmaster"/>
+ <!--RMSQUACH-->
+ <project name="skizzophrenic/SquachWare-CFW"					path="git/RogueMaster/awesome-flipperzero-withModules/fw/squach"												remote="githubdev"/>
+ <project name="flipperdevices/flipperzero-protobuf"				path="git/RogueMaster/awesome-flipperzero-withModules/fw/squach/assets/protobuf"										remote="githubdev"/>
+ <project name="FreeRTOS/FreeRTOS-Kernel"					path="git/RogueMaster/awesome-flipperzero-withModules/fw/squach/lib/FreeRTOS-Kernel"										remote="githubmain"/>
+ <project name="FreeRTOS/FreeRTOS-Kernel-Community-Supported-Ports"		path="git/RogueMaster/awesome-flipperzero-withModules/fw/squach/lib/FreeRTOS-Kernel/portable/ThirdParty/Community-Supported-Ports"				remote="githubmain"/>
+ <project name="FreeRTOS/FreeRTOS-Kernel-Partner-Supported-Ports"		path="git/RogueMaster/awesome-flipperzero-withModules/fw/squach/lib/FreeRTOS-Kernel/portable/ThirdParty/Partner-Supported-Ports"				remote="githubmain"/>
+ <project name="Flipper-Zero/STM32CubeWB"					path="git/RogueMaster/awesome-flipperzero-withModules/fw/squach/lib/STM32CubeWB"										remote="githubmaster"/>
+ <project name="robotpy/cxxheaderparser"					path="git/RogueMaster/awesome-flipperzero-withModules/fw/squach/lib/cxxheaderparser"										remote="githubmain"/>
+ <project name="flipperdevices/libusb_stm32"					path="git/RogueMaster/awesome-flipperzero-withModules/fw/squach/lib/libusb_stm32"										remote="githubmaster"/>
+ <project name="littlefs-project/littlefs"					path="git/RogueMaster/awesome-flipperzero-withModules/fw/squach/lib/littlefs"											remote="githubmaster"/>
+ <project name="Mbed-TLS/mbedtls"						path="git/RogueMaster/awesome-flipperzero-withModules/fw/squach/lib/mbedtls"											remote="githubdevelopment"/>
+ <project name="amachronic/microtar"						path="git/RogueMaster/awesome-flipperzero-withModules/fw/squach/lib/microtar"											remote="githubmaster"/>
+ <project name="P-p-H-d/mlib"							path="git/RogueMaster/awesome-flipperzero-withModules/fw/squach/lib/mlib"											remote="githubmaster"/>
+ <project name="nanopb/nanopb"							path="git/RogueMaster/awesome-flipperzero-withModules/fw/squach/lib/nanopb"											remote="githubmaster"/>
+ <!--RMUNLEASHED-->
+ <project name="Eng1n33r/flipperzero-firmware"					path="git/RogueMaster/awesome-flipperzero-withModules/fw/unleashed"												remote="githubdev"/>
+ <project name="DarkFlippers/SubGHz_Remote"					path="git/RogueMaster/awesome-flipperzero-withModules/fw/unleashed/applications/main/subghz_remote"								remote="githubdev"/>
+ <project name="flipperdevices/flipperzero-protobuf"				path="git/RogueMaster/awesome-flipperzero-withModules/fw/unleashed/assets/protobuf"										remote="githubdev"/>
+ <project name="FreeRTOS/FreeRTOS-Kernel"					path="git/RogueMaster/awesome-flipperzero-withModules/fw/unleashed/lib/FreeRTOS-Kernel"										remote="githubmain"/>
+ <project name="FreeRTOS/FreeRTOS-Kernel-Community-Supported-Ports"		path="git/RogueMaster/awesome-flipperzero-withModules/fw/unleashed/lib/FreeRTOS-Kernel/portable/ThirdParty/Community-Supported-Ports"				remote="githubmain"/>
+ <project name="FreeRTOS/FreeRTOS-Kernel-Partner-Supported-Ports"		path="git/RogueMaster/awesome-flipperzero-withModules/fw/unleashed/lib/FreeRTOS-Kernel/portable/ThirdParty/Partner-Supported-Ports"				remote="githubmain"/>
+ <project name="robotpy/cxxheaderparser"					path="git/RogueMaster/awesome-flipperzero-withModules/fw/unleashed/lib/cxxheaderparser"										remote="githubmain"/>
+ <project name="flipperdevices/heatshrink"					path="git/RogueMaster/awesome-flipperzero-withModules/fw/unleashed/lib/heatshrink"										remote="githubmaster"/>
+ <project name="flipperdevices/libusb_stm32"					path="git/RogueMaster/awesome-flipperzero-withModules/fw/unleashed/lib/libusb_stm32"										remote="githubmaster"/>
+ <project name="littlefs-project/littlefs"					path="git/RogueMaster/awesome-flipperzero-withModules/fw/unleashed/lib/littlefs"										remote="githubmaster"/>
+ <project name="Mbed-TLS/mbedtls"						path="git/RogueMaster/awesome-flipperzero-withModules/fw/unleashed/lib/mbedtls"											remote="githubdevelopment"/>
+ <project name="amachronic/microtar"						path="git/RogueMaster/awesome-flipperzero-withModules/fw/unleashed/lib/microtar"										remote="githubmaster"/>
+ <project name="P-p-H-d/mlib"							path="git/RogueMaster/awesome-flipperzero-withModules/fw/unleashed/lib/mlib"											remote="githubmaster"/>
+ <project name="nanopb/nanopb"							path="git/RogueMaster/awesome-flipperzero-withModules/fw/unleashed/lib/nanopb"											remote="githubmaster"/>
+ <project name="STMicroelectronics/cmsis_device_wb"				path="git/RogueMaster/awesome-flipperzero-withModules/fw/unleashed/lib/stm32wb_cmsis"										remote="githubmaster"/>
+ <project name="flipperdevices/stm32wb_copro"					path="git/RogueMaster/awesome-flipperzero-withModules/fw/unleashed/lib/stm32wb_copro"										remote="githubdev"/>
+ <project name="flipperdevices/stm32wb_copro_scripts"				path="git/RogueMaster/awesome-flipperzero-withModules/fw/unleashed/lib/stm32wb_copro/scripts"									remote="githubdev"/>
+ <project name="STMicroelectronics/stm32wbxx_hal_driver"			path="git/RogueMaster/awesome-flipperzero-withModules/fw/unleashed/lib/stm32wb_hal"										remote="githubmaster"/>
+</manifest>
