@@ -116,7 +116,7 @@ https://www.svgrepo.com/collections/
 
 ---
 
-#🐾Socials:
+# 🐾Socials:
 <code>[<img height="40" src="/res/github.svg">](https://github.com/login)</code>&nbsp;<!---->
 <code>[<img height="40" src="/res/linkedin.svg">](https://www.linkedin.com/login)</code>&nbsp;<!---->
 <code>[<img height="40" src="/res/facebook.svg">](https://www.facebook.com/login.php/)</code>&nbsp;<!---->
@@ -128,7 +128,7 @@ https://www.svgrepo.com/collections/
 
 ---
 
-# 🏁Eighty Days
+# 🏁Eighty Days:
 <code>[<img height="40" src="/res/us.svg">](https://github.com/j1nh0/j1nh0/blob/main/res/US-allo-chart.pdf)</code>&nbsp;<!---->
 <code>[<img height="40" src="/res/ca.svg">](https://github.com/j1nh0/j1nh0/blob/main/res/CA-allo-chart.pdf)</code>&nbsp;<!---->
 <code>[<img height="40" src="/res/au.svg">](https://github.com/j1nh0/j1nh0/blob/main/res/AU-allo-chart.pdf)</code>&nbsp;<!---->
