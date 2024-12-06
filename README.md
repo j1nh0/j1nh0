@@ -117,14 +117,14 @@ https://www.svgrepo.com/collections/
 ---
 
 # 🐾Socials:
-<code>[<img height="40" src="/res/github.svg">](https://github.com/login)</code>&nbsp;<!---->
-<code>[<img height="40" src="/res/linkedin.svg">](https://www.linkedin.com/login)</code>&nbsp;<!---->
-<code>[<img height="40" src="/res/facebook.svg">](https://www.facebook.com/login.php/)</code>&nbsp;<!---->
-<code>[<img height="40" src="/res/twitter.svg">](https://x.com/i/flow/login?lang=en)</code>&nbsp;<!---->
-<code>[<img height="40" src="/res/discord.svg">](https://discord.com/login)</code>&nbsp;<!---->
-<code>[<img height="40" src="/res/coursera.svg">](https://www.coursera.org/?authMode=login)</code>&nbsp;<!---->
-<code>[<img height="40" src="/res/snapchat.svg">](https://www.snapchat.com/)</code>&nbsp;<!---->
-<code>[<img height="40" src="/res/venmo.svg">](https://id.venmo.com/signin#/lgn)</code>&nbsp;<!---->
+<code>[<img height="40" src="/res/github.svg">](https://github.com/login)</code>&nbsp;<!--github-->
+<code>[<img height="40" src="/res/linkedin.svg">](https://www.linkedin.com/login)</code>&nbsp;<!--linkedin-->
+<code>[<img height="40" src="/res/facebook.svg">](https://www.facebook.com/login.php/)</code>&nbsp;<!--facebook-->
+<code>[<img height="40" src="/res/twitter.svg">](https://x.com/i/flow/login?lang=en)</code>&nbsp;<!--twitter-->
+<code>[<img height="40" src="/res/discord.svg">](https://discord.com/login)</code>&nbsp;<!--discord-->
+<code>[<img height="40" src="/res/coursera.svg">](https://www.coursera.org/?authMode=login)</code>&nbsp;<!--coursera-->
+<code>[<img height="40" src="/res/snapchat.svg">](https://www.snapchat.com/)</code>&nbsp;<!--snapchat-->
+<code>[<img height="40" src="/res/venmo.svg">](https://id.venmo.com/signin#/lgn)</code>&nbsp;<!--venmo-->
 
 ---
 
