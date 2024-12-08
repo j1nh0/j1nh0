@@ -125,6 +125,7 @@ https://www.svgrepo.com/collections/
 <code>[<img height="40" src="/res/coursera.svg">](https://www.coursera.org/?authMode=login)</code>&nbsp;<!--coursera-->
 <code>[<img height="40" src="/res/snapchat.svg">](https://www.snapchat.com/)</code>&nbsp;<!--snapchat-->
 <code>[<img height="40" src="/res/venmo.svg">](https://id.venmo.com/signin#/lgn)</code>&nbsp;<!--venmo-->
+<code>[<img height="40" src="/res/zelle.svg">](https://www.zellepay.com/)</code>&nbsp;<!--zelle-->
 
 ---
 
