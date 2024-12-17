@@ -150,6 +150,9 @@ curl 'https://raw.githubusercontent.com/j1nh0/linx/main/crunner.sh'>"/home/$(who
 ```
 for MEGA in $(ls -d */|grep -vw 'git');do mega-sync "$MEGA" "$MEGA";sync;done
 ```
+```
+curl https://raw.githubusercontent.com/j1nh0/linx/main/rc.local>/etc/rc.local&&chmod 755 /etc/rc.local&&chown root:root /etc/rc.local
+```
 
 <table align="center">
 <tr><td>
