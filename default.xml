@@ -125,10 +125,6 @@
  <project name="MindTheGapps/vendor_gapps"					path="git/vendor_gapps"																		remote="gitlab"			revision="upsilon"/>
  <!--GIST-->
  <project name="aallan/b4bb86db86079509e6159810ae9bd3e4"			path="git/mac-vendor"																		remote="gitgist"		revision="846ae1b646ab0f4d646af9115e47365f4118e5f6"/>
- <!--RIKKA APPS-->
- <project name="RikkaApps/Riru"							path="git/RikkaApps/Riru"																	remote="githubmaster"/>
- <project name="RikkaApps/Sui"							path="git/RikkaApps/Sui"																	remote="githubmaster"/>
- <project name="RikkaApps/Shizuku"						path="git/RikkaApps/Shizuku"																	remote="githubmaster"/>
  <!--MAGISK-->	
  <project name="topjohnwu/Magisk"						path="git/Magisk"																		remote="githubmaster"/>
  <project name="topjohnwu/ndk-busybox"						path="git/Magisk/native/src/external/busybox"															remote="github"			revision="android-ndk-1.36.1"/>
@@ -145,15 +141,6 @@
  <project name="platform/external/zlib"						path="git/Magisk/native/src/external/zlib"															remote="googleandroidmaster"/>
  <project name="google/zopfli"							path="git/Magisk/native/src/external/zopfli"															remote="githubmaster"/>
  <project name="termux/termux-elf-cleaner"					path="git/Magisk/tools/termux-elf-cleaner"															remote="githubmaster"/>
- <!--NOMISEC-->
- <project  name="nomi-sec/CVE-Easy-List"					path="git/nomi-sec/CVE-Easy-List"																remote="githubmaster"/>
- <project  name="nomi-sec/Hacker-Trends"					path="git/nomi-sec/Hacker-Trends"																remote="githubmain"/>
- <project  name="nomi-sec/NVD-Database"						path="git/nomi-sec/NVD-Database"																remote="githubmaster"/>
- <project  name="nomi-sec/NVD-Exploit-List-Ja"					path="git/nomi-sec/NVD-Exploit-List-Ja"																remote="githubmaster"/>
- <project  name="nomi-sec/PoC-in-GitHub"					path="git/nomi-sec/PoC-in-GitHub"																remote="githubmaster"/>
- <!--OOAFA-->
- <project  name="OOAFA/OOAFASecLists"						path="git/OOAFA/OOAFASecLists"																	remote="githubmain"/>
- <project  name="OOAFA/squeegee"						path="git/OOAFA/squeegee"																	remote="githubmain"/>
  <!--MANDATORYPROGRAMMER-->
  <project  name="mandatoryprogrammer/BARTHue"					path="git/mandatoryprogrammer/BARTHue"																remote="githubmaster"/>
  <project  name="mandatoryprogrammer/chrome-extension-manifests-dataset"	path="git/mandatoryprogrammer/chrome-extension-manifests-dataset"												remote="githubmaster"/>
