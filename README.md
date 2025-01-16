@@ -101,18 +101,35 @@ https://www.svgrepo.com/collections/
 ---
 
 # 🧙OpenSaysMe:
-<code>[<img height="40" src="/res/emerald.svg">]()</code>&nbsp;<!---->
-<code>[<img height="40" src="/res/redstone.svg">]()</code>&nbsp;<!---->
-<code>[<img height="40" src="/res/eng.svg">]()</code>&nbsp;<!--eng-->
-<code>[<img height="40" src="/res/gitc.svg">]()</code>&nbsp;<!--gitc-->
-<code>[<img height="40" src="/res/img.svg">]()</code>&nbsp;<!--img-->
-<code>[<img height="40" src="/res/linx.svg">]()</code>&nbsp;<!--linx-->
-<code>[<img height="40" src="/res/diamond.svg">]()</code>&nbsp;<!---->
-<code>[<img height="40" src="/res/pdf.svg">]()</code>&nbsp;<!--pdf-->
-<code>[<img height="40" src="/res/q.svg">]()</code>&nbsp;<!--q-->
-<code>[<img height="40" src="/res/amethyst.svg">]()</code>&nbsp;<!---->
-<code>[<img height="40" src="/res/vm.svg">]()</code>&nbsp;<!--vm-->
-<code>[<img height="40" src="/res/wind.svg">]()</code>&nbsp;<!--wind-->
+<code>[<img height="40" src="/res/alpha/a.svg">](https://mega.nz/#P!AgDbqkSRBEjUrsLBc4mFziQ1v3trKNqRl13VwxeWedTugyAP7Aey2atLqmpkgCDxhLtXFEYYPpXHv034JfICXhnkfPlIJEseM37edaZdug7m2pwzN2n7tg)</code>&nbsp;<!---->
+<code>[<img height="40" src="/res/alpha/b.svg">](https://mega.nz/#P!AgDuoiHEDMHn1vhqLmyGoVJSLedc3nsuW_BqxElBy9lyUGAGD3P0tZmhVdQCWXFxy5QCkYBaYuhUshEMOBROlzu0Y2NgXTTw5tjjxloXaHvDd63L5xfjpA)</code>&nbsp;<!---->
+<code>[<img height="40" src="/res/alpha/c.svg">](https://mega.nz/#P!AgBuYmGdpEu-YNNZqeqL20Xy5jWK5GKXaIfCRqXKqzlW5XLFWHe22qK6pYCYFDajghge7L8_kzU9cH8TGigQSQ_JqxbIkVC5WuXbpDoRJ8E4waYu-yoaxA)</code>&nbsp;<!---->
+<code>[<img height="40" src="/res/alpha/d.svg">](https://mega.nz/#P!AgDqeDaQhNuCCVOQ9WMsRMI2JFmXBmaFZJc6653EYCkGMQDOHA3aG7q4ZfoSlmBx6NQORNAlULyC3-oBT8_18Kgls5D_uy5N65xaVcSE0vKON1ZU5zTS8A)</code>&nbsp;<!---->
+<code>[<img height="40" src="/res/alpha/e.svg">]()</code>&nbsp;<!---->
+
+<code>[<img height="40" src="/res/alpha/f.svg">](https://mega.nz/#P!AgDO8HacBhqjRUuTG5B5bkbhSJloh1pXT8W4esw9aSpskVCe5YHtl138iCGCgOPHp9o6KVycr7LshFgJSnEHLEuutOKeKAznQB5jOFQR_f7RYb0iL7aaCQ)</code>&nbsp;<!---->
+<code>[<img height="40" src="/res/alpha/g.svg">](https://mega.nz/#P!AgBu_kRUEsKqHznRJNYEcaeN1RuFXgRQExzohpm47hZVdYVRwn42AtXmhsrMrlpUCRO4p4I8OfXp2KvH6qzSqKwtjBqjTzLVqVS3qYd7yUmsQpBbrZ9lsw)</code>&nbsp;<!---->
+<code>[<img height="40" src="/res/alpha/h.svg">](https://mega.nz/#P!AgALqCMQLpiT5LGcOP2GvJGvjKXwxemG1VZF_C9zBJETH2r9aNvXrx7oAPSTgE5DQIc90v-hPSuV6TDP3aI27DJqp_uec-0Oxduomb1c8qMRNebzCOhvIg)</code>&nbsp;<!---->
+<code>[<img height="40" src="/res/alpha/i.svg">](https://mega.nz/#P!AgBucBAdPpLuT9ETLdVa5tfxK0FE4S96c2QlSdTHpPXArBfsIyZdhIgNMo_G0EPtnS2bdzUPln9obqQ_HzEzTbMjr7Q9mDMNtrRPNIn7WmPko-Uza6ON5A)</code>&nbsp;<!---->
+<code>[<img height="40" src="/res/alpha/j.svg">]()</code>&nbsp;<!---->
+
+<code>[<img height="40" src="/res/alpha/k.svg">]()</code>&nbsp;<!---->
+<code>[<img height="40" src="/res/alpha/l.svg">]()</code>&nbsp;<!---->
+<code>[<img height="40" src="/res/alpha/m.svg">](https://mega.nz/#P!AgAvJFJFChJ8qTlM4axopLd8D9desBzBcHK1NhFe8SPDYzdAKt9s6BLCnK5ccr3A-i8vHIgNsDaZv-9IX-0p-hdE164a3OpKts937NWoNn_-k1O_YipifQ)</code>&nbsp;<!---->
+<code>[<img height="40" src="/res/alpha/n.svg">]()</code>&nbsp;<!---->
+<code>[<img height="40" src="/res/alpha/o.svg">](https://mega.nz/#P!AgDfLGMNCFk43nQHA9dgxGurNmEiuIKTIrzApJPMQI7482rAt969JR_c9EOV_OBYyeYWFTtptX-JHQtjsbkE6GnKRAknPIkCFFGjEewLbOxPDmxj2tiBkQ)</code>&nbsp;<!---->
+
+<code>[<img height="40" src="/res/alpha/p.svg">](https://mega.nz/#P!AgAqfiQIhluBFK_VqtVHwBZveZRWB2MSZYbyesaSIYDHSecmxqB7nnrBeHfJfGNn10BDTH7DB8Yazw9d8DgC_y2VcvUtQH7bkdKs5KiheZ6z5goANvAndQ)</code>&nbsp;<!---->
+<code>[<img height="40" src="/res/alpha/q.svg">](https://mega.nz/#P!AgBK8jRFAki7UhRbN-Ut3mojGsZaCTCVCKgXCC3ydAzxogKNHCH9yufAHiwiP0nKceNu70myN9clQqeefJfRHhSFW93SEJHCc8uFYzxHjUOMfa2VNb9lYA)</code>&nbsp;<!---->
+<code>[<img height="40" src="/res/alpha/r.svg">]()</code>&nbsp;<!---->
+<code>[<img height="40" src="/res/alpha/s.svg">](https://mega.nz/#P!AgBe6DNFNMBkAhdyR61Owjm5EUF9h5H4P_fdhRM2jsmG-EAMlurycKTylka8780imaCmTCM3VH1JLVmLscyhuWEi8ucrh56JwJpNPL5Asto60oaUX03rGA)</code>&nbsp;<!---->
+<code>[<img height="40" src="/res/alpha/t.svg">](https://mega.nz/#P!AgBuKBMdJhh-VedaEyLk9JycYQVxz8oA0iRv6gviEBW_oIRG7gliT3JL62YQ5Xr5mKh0Ibj53BFXTmG3wHN-6xFQLuQxNQFG7jUl53q9XQ37OK6PZ9tDzg)</code>&nbsp;<!---->
+
+<code>[<img height="40" src="/res/alpha/u.svg">]()</code>&nbsp;<!---->
+<code>[<img height="40" src="/res/alpha/v.svg">]()</code>&nbsp;<!---->
+<code>[<img height="40" src="/res/alpha/w.svg">]()</code>&nbsp;<!---->
+<code>[<img height="40" src="/res/alpha/x.svg">]()</code>&nbsp;<!---->
+<code>[<img height="40" src="/res/alpha/y.svg">](https://mega.nz/folder/CjQQCJgQ#0GIj-B5tTvknCjhJahqw6w)</code>&nbsp;<!---->
 
 ---
 
@@ -131,10 +148,10 @@ https://www.svgrepo.com/collections/
 
 # 🏁Eighty Days:
 <code>[<img height="40" src="/res/dewey.svg">](https://www.librarything.com/mds/0)</code>&nbsp;<!--Dewey decimal system legend-->
-<code>[<img height="40" src="/res/us.svg">](https://github.com/j1nh0/j1nh0/blob/main/res/US-allo-chart.pdf)</code>&nbsp;<!--US allo chart-->
-<code>[<img height="40" src="/res/ca.svg">](https://github.com/j1nh0/j1nh0/blob/main/res/CA-allo-chart.pdf)</code>&nbsp;<!--CA allo chart-->
-<code>[<img height="40" src="/res/au.svg">](https://github.com/j1nh0/j1nh0/blob/main/res/AU-allo-chart.pdf)</code>&nbsp;<!--AU allo chart-->
-<code>[<img height="40" src="/res/uk.svg">](https://github.com/j1nh0/j1nh0/blob/main/res/UK-allo-chart.pdf)</code>&nbsp;<!--UK allo chart-->
+<code>[<img height="40" src="/res/us.svg">](https://github.com/j1nh0/j1nh0/blob/main/res/allo/US-allo-chart.pdf)</code>&nbsp;<!--US allo chart-->
+<code>[<img height="40" src="/res/ca.svg">](https://github.com/j1nh0/j1nh0/blob/main/res/allo/CA-allo-chart.pdf)</code>&nbsp;<!--CA allo chart-->
+<code>[<img height="40" src="/res/au.svg">](https://github.com/j1nh0/j1nh0/blob/main/res/allo/AU-allo-chart.pdf)</code>&nbsp;<!--AU allo chart-->
+<code>[<img height="40" src="/res/uk.svg">](https://github.com/j1nh0/j1nh0/blob/main/res/allo/UK-allo-chart.pdf)</code>&nbsp;<!--UK allo chart-->
 
 ---
 
