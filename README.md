@@ -112,7 +112,8 @@ https://www.svgrepo.com/collections/
 <code>[<img height="40" src="/res/alpha/o.svg">](https://mega.nz/#P!AgDfLGMNCFk43nQHA9dgxGurNmEiuIKTIrzApJPMQI7482rAt969JR_c9EOV_OBYyeYWFTtptX-JHQtjsbkE6GnKRAknPIkCFFGjEewLbOxPDmxj2tiBkQ)</code>&nbsp;<!---->
 <code>[<img height="40" src="/res/alpha/p.svg">](https://mega.nz/#P!AgAqfiQIhluBFK_VqtVHwBZveZRWB2MSZYbyesaSIYDHSecmxqB7nnrBeHfJfGNn10BDTH7DB8Yazw9d8DgC_y2VcvUtQH7bkdKs5KiheZ6z5goANvAndQ)</code>&nbsp;<!---->
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<code>[<img height="40" src="/res/alpha/a.svg">](https://mega.nz/#P!AgDbqkSRBEjUrsLBc4mFziQ1v3trKNqRl13VwxeWedTugyAP7Aey2atLqmpkgCDxhLtXFEYYPpXHv034JfICXhnkfPlIJEseM37edaZdug7m2pwzN2n7tg)</code>&nbsp;<!---->
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<code>[<img height="40" src="/res/alpha/a.svg">](https://mega.nz/#P!AgDbqkSRBEjUrsLBc4mFziQ1v3trKNqRl13VwxeWedTugyAP7Aey2atLqmpkgCDxhLtXFEYYPpXHv034JfICXhnkfPlIJEseM37edaZdug7m2pwzN2n7tg)</code>&nbsp;<!---->
 <code>[<img height="40" src="/res/alpha/s.svg">](https://mega.nz/#P!AgBe6DNFNMBkAhdyR61Owjm5EUF9h5H4P_fdhRM2jsmG-EAMlurycKTylka8780imaCmTCM3VH1JLVmLscyhuWEi8ucrh56JwJpNPL5Asto60oaUX03rGA)</code>&nbsp;<!---->
 <code>[<img height="40" src="/res/alpha/d.svg">](https://mega.nz/#P!AgDqeDaQhNuCCVOQ9WMsRMI2JFmXBmaFZJc6653EYCkGMQDOHA3aG7q4ZfoSlmBx6NQORNAlULyC3-oBT8_18Kgls5D_uy5N65xaVcSE0vKON1ZU5zTS8A)</code>&nbsp;<!---->
 <code>[<img height="40" src="/res/alpha/f.svg">](https://mega.nz/#P!AgDO8HacBhqjRUuTG5B5bkbhSJloh1pXT8W4esw9aSpskVCe5YHtl138iCGCgOPHp9o6KVycr7LshFgJSnEHLEuutOKeKAznQB5jOFQR_f7RYb0iL7aaCQ)</code>&nbsp;<!---->
