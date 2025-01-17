@@ -112,7 +112,7 @@ https://www.svgrepo.com/collections/
 <code>[<img height="40" src="/res/alpha/o.svg">](https://mega.nz/#P!AgDfLGMNCFk43nQHA9dgxGurNmEiuIKTIrzApJPMQI7482rAt969JR_c9EOV_OBYyeYWFTtptX-JHQtjsbkE6GnKRAknPIkCFFGjEewLbOxPDmxj2tiBkQ)</code>&nbsp;<!---->
 <code>[<img height="40" src="/res/alpha/p.svg">](https://mega.nz/#P!AgAqfiQIhluBFK_VqtVHwBZveZRWB2MSZYbyesaSIYDHSecmxqB7nnrBeHfJfGNn10BDTH7DB8Yazw9d8DgC_y2VcvUtQH7bkdKs5KiheZ6z5goANvAndQ)</code>&nbsp;<!---->
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <code>[<img height="40" src="/res/alpha/a.svg">](https://mega.nz/#P!AgDbqkSRBEjUrsLBc4mFziQ1v3trKNqRl13VwxeWedTugyAP7Aey2atLqmpkgCDxhLtXFEYYPpXHv034JfICXhnkfPlIJEseM37edaZdug7m2pwzN2n7tg)</code>&nbsp;<!---->
 <code>[<img height="40" src="/res/alpha/s.svg">](https://mega.nz/#P!AgBe6DNFNMBkAhdyR61Owjm5EUF9h5H4P_fdhRM2jsmG-EAMlurycKTylka8780imaCmTCM3VH1JLVmLscyhuWEi8ucrh56JwJpNPL5Asto60oaUX03rGA)</code>&nbsp;<!---->
 <code>[<img height="40" src="/res/alpha/d.svg">](https://mega.nz/#P!AgDqeDaQhNuCCVOQ9WMsRMI2JFmXBmaFZJc6653EYCkGMQDOHA3aG7q4ZfoSlmBx6NQORNAlULyC3-oBT8_18Kgls5D_uy5N65xaVcSE0vKON1ZU5zTS8A)</code>&nbsp;<!---->
@@ -123,7 +123,7 @@ https://www.svgrepo.com/collections/
 <code>[<img height="40" src="/res/alpha/k.svg">]()</code>&nbsp;<!---->
 <code>[<img height="40" src="/res/alpha/l.svg">]()</code>&nbsp;<!---->
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <code>[<img height="40" src="/res/alpha/z.svg">](https://mega.nz/#P!AgBfqHSQlFtOvEd4l-sWYfP9E3pGb8PVN9ict0bxXyuHei2hqRxOkoUQGIi_ANhQk1zHz-JCZynIIP5XhGsHVvqYhD729GQebBn_x44idlQTDHh806SxlQ)</code>&nbsp;<!---->
 <code>[<img height="40" src="/res/alpha/x.svg">]()</code>&nbsp;<!---->
 <code>[<img height="40" src="/res/alpha/c.svg">](https://mega.nz/#P!AgBuYmGdpEu-YNNZqeqL20Xy5jWK5GKXaIfCRqXKqzlW5XLFWHe22qK6pYCYFDajghge7L8_kzU9cH8TGigQSQ_JqxbIkVC5WuXbpDoRJ8E4waYu-yoaxA)</code>&nbsp;<!---->
