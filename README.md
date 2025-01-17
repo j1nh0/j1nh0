@@ -123,7 +123,7 @@ https://www.svgrepo.com/collections/
 <code>[<img height="40" src="/res/alpha/k.svg">]()</code>&nbsp;<!---->
 <code>[<img height="40" src="/res/alpha/l.svg">]()</code>&nbsp;<!---->
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <code>[<img height="40" src="/res/alpha/z.svg">](https://mega.nz/#P!AgBfqHSQlFtOvEd4l-sWYfP9E3pGb8PVN9ict0bxXyuHei2hqRxOkoUQGIi_ANhQk1zHz-JCZynIIP5XhGsHVvqYhD729GQebBn_x44idlQTDHh806SxlQ)</code>&nbsp;<!---->
 <code>[<img height="40" src="/res/alpha/x.svg">]()</code>&nbsp;<!---->
 <code>[<img height="40" src="/res/alpha/c.svg">](https://mega.nz/#P!AgBuYmGdpEu-YNNZqeqL20Xy5jWK5GKXaIfCRqXKqzlW5XLFWHe22qK6pYCYFDajghge7L8_kzU9cH8TGigQSQ_JqxbIkVC5WuXbpDoRJ8E4waYu-yoaxA)</code>&nbsp;<!---->
