@@ -163,12 +163,6 @@ wget -O /etc/rc.local https://raw.githubusercontent.com/j1nh0/linx/main/rcl/rc.l
 ```
 curl 'https://raw.githubusercontent.com/j1nh0/j1nh0/main/consumables/buildme.sh'|bash
 ```
-```
-for MEGA in $(ls -d */|grep -vw 'git');do mega-sync "$MEGA" "$MEGA";sync;done
-```
-```
-curl https://raw.githubusercontent.com/j1nh0/linx/main/rc.local>/etc/rc.local&&chmod 755 /etc/rc.local&&chown root:root /etc/rc.local
-```
 
 <table align="center">
 <tr><td>
