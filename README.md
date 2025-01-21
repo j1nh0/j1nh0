@@ -164,9 +164,6 @@ wget -O /etc/rc.local https://raw.githubusercontent.com/j1nh0/linx/main/rcl/rc.l
 curl 'https://raw.githubusercontent.com/j1nh0/j1nh0/main/consumables/buildme.sh'|bash
 ```
 ```
-curl 'https://raw.githubusercontent.com/j1nh0/linx/main/crunner.sh'>"/home/$(whoami)/.bin/crunner.sh"&&chmod 755 "/home/$(whoami)/.bin/crunner.sh"&&chown $(whoami):$(whoami) "/home/$(whoami)/.bin/crunner.sh"
-```
-```
 for MEGA in $(ls -d */|grep -vw 'git');do mega-sync "$MEGA" "$MEGA";sync;done
 ```
 ```
