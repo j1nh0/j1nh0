@@ -402,7 +402,8 @@ curl 'https://raw.githubusercontent.com/j1nh0/j1nh0/main/consumables/buildme.sh'
 # 📈Stats:
 <div align="center">
 
-[![GitHub Streak](https://git-hub-streak-stats.vercel.app?user=j1nh0&theme=gotham&fire=EB5454&hide_border=true&date_format=%5BY.%5Dn.j)](https://github.com/j1nh0)
+[![Streak](https://git-hub-streak-stats.vercel.app?user=j1nh0&theme=gotham&fire=EB5454&hide_border=true&date_format=%5BY.%5Dn.j)](https://github.com/j1nh0)
+[![Stats](https://github-readme-stats.vercel.app/api?username=j1nh0&include_all_commits=true&theme=gotham)](https://github.com/j1nh0)
 
 <!--
 <img src="https://streak-stats.demolab.com/?user=j1nh0&hide_border=true&count_private=true&theme=gotham&fire=EB5454"/>
