@@ -400,4 +400,11 @@ curl 'https://raw.githubusercontent.com/j1nh0/j1nh0/main/consumables/buildme.sh'
 ---
 
 # 📈Stats:
+<div align="center">
+
+<img src="https://streak-stats.demolab.com/?user=j1nh0&hide_border=true&count_private=true&theme=gotham&fire=EB5454"/>
+
+</div>
+<!--
 <div align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=j1nh0&hide_border=true&count_private=true&theme=gotham&fire=EB5454"/></div>
+-->
