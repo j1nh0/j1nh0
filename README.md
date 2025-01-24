@@ -102,10 +102,10 @@ https://www.svgrepo.com/collections/
 
 # 🧙OpenSaysMe:
 <code>[<img height="40" src="/res/alpha/q.svg">](https://mega.nz/#P!AgBK8jRFAki7UhRbN-Ut3mojGsZaCTCVCKgXCC3ydAzxogKNHCH9yufAHiwiP0nKceNu70myN9clQqeefJfRHhSFW93SEJHCc8uFYzxHjUOMfa2VNb9lYA)</code>&nbsp;<!---->
-<code>[<img height="40" src="/res/alpha/w.svg">](https://mega.nz/#P!AgDK_AAJqsm-CYUSNQ_BL7JYZz-RB6ScAVSV5Nu583yg1A7MO30TH4qzr9DKIagPTylL2SE6fobEELkrwHV6IXcGdHAgFR_t79EePKyOSi99umVGCMvHQQ)</code>&nbsp;<!---->
+<code>[<img height="40" src="/res/alpha/w.svg">](https://mega.nz/#P!AgBufBKNlsJQcFhXLHekw15QLajVBnp2WE2qJyGotVHb-BuGIIjgGuWQtCrWr4yxyWA4wNTAuf-B3lwweTOX9a33mhTp3P0UughMw5ums2kaRd8pqJFJlg)</code>&nbsp;<!---->
 <code>[<img height="40" src="/res/alpha/e.svg">]()</code>&nbsp;<!---->
 <code>[<img height="40" src="/res/alpha/r.svg">]()</code>&nbsp;<!---->
-<code>[<img height="40" src="/res/alpha/t.svg">](https://mega.nz/#P!AgBuKBMdJhh-VedaEyLk9JycYQVxz8oA0iRv6gviEBW_oIRG7gliT3JL62YQ5Xr5mKh0Ibj53BFXTmG3wHN-6xFQLuQxNQFG7jUl53q9XQ37OK6PZ9tDzg)</code>&nbsp;<!---->
+<code>[<img height="40" src="/res/alpha/t.svg">](https://mega.nz/#P!AgCaYiXJjlvdPQQycRuwlD6yWtmblcXDcXu0rj6GIbpS4-OXveSgetuibhAxXEzxtyTs4S0QsYSSn_HJNk4w_xTPSxCdxb5CY8P5IKIJpX6Y1eM0T_C3EQ)</code>&nbsp;<!---->
 <code>[<img height="40" src="/res/alpha/y.svg">](https://mega.nz/folder/CjQQCJgQ#0GIj-B5tTvknCjhJahqw6w)</code>&nbsp;<!---->
 <code>[<img height="40" src="/res/alpha/u.svg">]()</code>&nbsp;<!---->
 <code>[<img height="40" src="/res/alpha/i.svg">](https://mega.nz/#P!AgBucBAdPpLuT9ETLdVa5tfxK0FE4S96c2QlSdTHpPXArBfsIyZdhIgNMo_G0EPtnS2bdzUPln9obqQ_HzEzTbMjr7Q9mDMNtrRPNIn7WmPko-Uza6ON5A)</code>&nbsp;<!---->
