@@ -2,99 +2,99 @@
 <manifest>
  <!--DEFINITIONS-->
  <!--ORIGIN-->
- <remote name="origin"			fetch=".."					revision="main"/>
+ <remote name="origin"  fetch=".."  revision="main"/>
  <!--GITHUB-->
- <remote name="github"			fetch="https://github.com"/>
- <remote name="githubmain"		fetch="https://github.com"			revision="main"/>
- <remote name="githubmaster"		fetch="https://github.com"			revision="master"/>
- <remote name="githubdev"		fetch="https://github.com"			revision="dev"/>
- <remote name="githubdevelopment"	fetch="https://github.com"			revision="development"/>
+ <remote name="github" fetch="https://github.com"/>
+ <remote name="githubmain" fetch="https://github.com" revision="main"/>
+ <remote name="githubmaster" fetch="https://github.com" revision="master"/>
+ <remote name="githubdev" fetch="https://github.com" revision="dev"/>
+ <remote name="githubdevelopment" fetch="https://github.com" revision="development"/>
  <!--GITLAB-->
- <remote name="gitlab"			fetch="https://gitlab.com"/>
- <remote name="gitlabmain"		fetch="https://gitlab.com"			revision="main"/>
- <remote name="gitlabmaster"		fetch="https://gitlab.com"			revision="master"/>
- <remote name="gitlabdev"		fetch="https://gitlab.com"			revision="dev"/>
- <remote name="gitlabdevelopment"	fetch="https://gitlab.com"			revision="development"/>
+ <remote name="gitlab" fetch="https://gitlab.com"/>
+ <remote name="gitlabmain" fetch="https://gitlab.com" revision="main"/>
+ <remote name="gitlabmaster" fetch="https://gitlab.com" revision="master"/>
+ <remote name="gitlabdev" fetch="https://gitlab.com" revision="dev"/>
+ <remote name="gitlabdevelopment" fetch="https://gitlab.com" revision="development"/>
  <!--GITEA-->
- <remote name="gitea"			fetch="http://gitea.local"/>
- <remote name="giteamain"		fetch="http://gitea.local"			revision="main"/>
- <remote name="giteamaster"		fetch="http://gitea.local"			revision="master"/>
- <remote name="giteadev"		fetch="http://gitea.local"			revision="dev"/>
- <remote name="giteadevelopment"	fetch="http://gitea.local"			revision="development"/>
+ <remote name="gitea" fetch="http://gitea.local"/>
+ <remote name="giteamain" fetch="http://gitea.local" revision="main"/>
+ <remote name="giteamaster" fetch="http://gitea.local" revision="master"/>
+ <remote name="giteadev" fetch="http://gitea.local" revision="dev"/>
+ <remote name="giteadevelopment" fetch="http://gitea.local" revision="development"/>
  <!--GIST-->
- <remote name="gitgist"			fetch="https://gist.github.com"/>
+ <remote name="gitgist" fetch="https://gist.github.com"/>
  <!--GOOGLE ANDROID-->
- <remote name="googleandroid"		fetch="https://android.googlesource.com"/>
- <remote name="googleandroidmaster"	fetch="https://android.googlesource.com"	revision="master"/>
+ <remote name="googleandroid" fetch="https://android.googlesource.com"/>
+ <remote name="googleandroidmaster" fetch="https://android.googlesource.com" revision="master"/>
  <!--J1NH0-->
- <remote name="j1nh0ssh"		fetch="ssh://git@github.com/j1nh0"		revision="main"/>
- <remote name="j1nh0https"		fetch="https://github.com/j1nh0"		revision="main"/>
+ <remote name="j1nh0ssh" fetch="ssh://git@github.com/j1nh0" revision="main"/>
+ <remote name="j1nh0https" fetch="https://github.com/j1nh0" revision="main"/>
  <!--DEFAULT BEHAVIOR-->
  <default remote="j1nh0https"/>
- <!--DEFAULT REPOS-->
+ <!--DEFAULT J1NH0 REPOS-->
  <!--BIBLIO-->
- <project name="biblio_000"			path="biblio/000"/>
- <project name="biblio_100"			path="biblio/100"/>
- <project name="biblio_200"			path="biblio/200"/>
- <project name="biblio_300"			path="biblio/300"/>
- <project name="biblio_400"			path="biblio/400"/>
- <project name="biblio_500"			path="biblio/500"/>
- <project name="biblio_600"			path="biblio/600"/>
- <project name="biblio_700"			path="biblio/700"/>
- <project name="biblio_800"			path="biblio/800"/>
- <project name="biblio_900"			path="biblio/900"/>
+ <project name="biblio_000" path="biblio/000"/>
+ <project name="biblio_100" path="biblio/100"/>
+ <project name="biblio_200" path="biblio/200"/>
+ <project name="biblio_300" path="biblio/300"/>
+ <project name="biblio_400" path="biblio/400"/>
+ <project name="biblio_500" path="biblio/500"/>
+ <project name="biblio_600" path="biblio/600"/>
+ <project name="biblio_700" path="biblio/700"/>
+ <project name="biblio_800" path="biblio/800"/>
+ <project name="biblio_900" path="biblio/900"/>
  <!--DEV-->
- <!--ENG-->
- <project name="dev_eng"				path="dev/eng"/>
- <project name="dev_eng_stig"			path="dev/eng/stig"/>
- <!--GITHUB-->
- <project name="AUTOMATIC1111/stable-diffusion-webui"                   	path="dev/git/stable-diffusion-webui"                                                                                                                               remote="githubmaster"/>
- <project name="bacher09/pwgen-for-bios"                                	path="dev/git/pwgen-for-bios"                                                                                                                                       remote="githubmain"/>
- <project name="ChrisRfr/Win10XPE"                                      	path="dev/git/Win10XPE"                                                                                                                                             remote="githubmaster"/>
- <project name="dogbert/bios-pwgen"                                     	path="dev/git/bios-pwgen"                                                                                                                                           remote="githubmaster"/>
- <project name="google/adb-sync"						path="dev/git/adb-sync"																		remote="githubmaster"/>
- <project name="hak5/usbrubberducky-payloads"                           	path="dev/git/usbrubberducky-payloads"                                                                                                                              remote="githubmaster"/>
- <project name="INT3NSE07/better-adb-sync"                              	path="dev/git/better-adb-sync"                                                                                                                                      remote="githubmain"/>
- <project name="issus/altium-library"                                   	path="dev/git/altium-library"                                                                                                                                       remote="githubmaster"/>
- <project name="sqlitebrowser/sqlitebrowser"					path="dev/git/sqlbrowser"																		remote="githubmaster"/>
- <project name="TheMuppets/manifests"                                   	path="dev/git/manifests"                                                                                                                                            remote="github"                 revision="lineage-21.0"/>
- <project name="upscayl/upscayl"						path="dev/git/upscayl"																		remote="githubmain"/>
- <!--GITLAB-->
- <project name="MindTheGapps/vendor_gapps"					path="dev/git/vendor_gapps"																		remote="gitlab"			revision="upsilon"/>
- <!--GIST-->
- <project name="aallan/b4bb86db86079509e6159810ae9bd3e4"			path="dev/git/mac-vendor"																		remote="gitgist"		revision="846ae1b646ab0f4d646af9115e47365f4118e5f6"/>
- <!--MAGISK-->	
- <project name="topjohnwu/Magisk"						path="dev/git/Magisk"																		remote="githubmaster"/>
- <project name="topjohnwu/ndk-busybox"						path="dev/git/Magisk/native/src/external/busybox"															remote="github"			revision="android-ndk-1.36.1"/>
- <project name="nemequ/bzip2"							path="dev/git/Magisk/native/src/external/bzip2"															remote="githubmaster"/>
- <project name="topjohnwu/crt0"							path="dev/git/Magisk/native/src/external/crt0"															remote="githubmaster"/>
- <project name="topjohnwu/cxx"							path="dev/git/Magisk/native/src/external/cxx-rs"															remote="githubmaster"/>
- <project name="topjohnwu/libcxx"						path="dev/git/Magisk/native/src/external/libcxx"															remote="githubmaster"/>
- <project name="LSPosed/LSPlt"							path="dev/git/Magisk/native/src/external/lsplt"															remote="githubmaster"/>
- <project name="lz4/lz4"							path="dev/git/Magisk/native/src/external/lz4"															remote="githubdev"/>
- <project name="platform/external/pcre"						path="dev/git/Magisk/native/src/external/pcre"															remote="googleandroidmaster"/>
- <project name="topjohnwu/selinux"						path="dev/git/Magisk/native/src/external/selinux"															remote="githubmaster"/>
- <project name="topjohnwu/system_properties"					path="dev/git/Magisk/native/src/external/system_properties"														remote="githubmaster"/>
- <project name="xz-mirror/xz"							path="dev/git/Magisk/native/src/external/xz"															remote="githubmaster"/>
- <project name="platform/external/zlib"						path="dev/git/Magisk/native/src/external/zlib"															remote="googleandroidmaster"/>
- <project name="google/zopfli"							path="dev/git/Magisk/native/src/external/zopfli"															remote="githubmaster"/>
- <project name="termux/termux-elf-cleaner"					path="dev/git/Magisk/tools/termux-elf-cleaner"															remote="githubmaster"/>
+ <project name="dev_eng" path="dev/eng"/>
+ <project name="dev_eng_stig" path="dev/eng/stig"/>
  <!--VM-->
- <project name="dev_vm_vmware_android"              path="dev/vm/vmware/android"/>
- <project name="dev_vm_vmware_linux_player"         path="dev/vm/vmware/linux/player"/>
- <project name="dev_vm_vmware_linux_tools"          path="dev/vm/vmware/linux/tools"/>
- <project name="dev_vm_vmware_linux_vmrc"           path="dev/vm/vmware/linux/vmrc"/>
- <project name="dev_vm_vmware_linux_workstation"    path="dev/vm/vmware/linux/workstation"/>
- <project name="dev_vm_vmware_macos"                path="dev/vm/vmware/macos"/>
- <project name="dev_vm_vmware_windows_converter"    path="dev/vm/vmware/windows/converter"/>
- <project name="dev_vm_vmware_windows_player"       path="dev/vm/vmware/windows/player"/>
- <project name="dev_vm_vmware_windows_tools"        path="dev/vm/vmware/windows/tools"/>
- <project name="dev_vm_vmware_windows_vmrc"         path="dev/vm/vmware/windows/vmrc"/>
- <project name="dev_vm_vmware_windows_workstation"  path="dev/vm/vmware/windows/workstation"/>
+ <project name="dev_vm_vmware_android" path="dev/vm/vmware/android"/>
+ <project name="dev_vm_vmware_linux_player" path="dev/vm/vmware/linux/player"/>
+ <project name="dev_vm_vmware_linux_tools" path="dev/vm/vmware/linux/tools"/>
+ <project name="dev_vm_vmware_linux_vmrc" path="dev/vm/vmware/linux/vmrc"/>
+ <project name="dev_vm_vmware_linux_workstation" path="dev/vm/vmware/linux/workstation"/>
+ <project name="dev_vm_vmware_macos" path="dev/vm/vmware/macos"/>
+ <project name="dev_vm_vmware_windows_converter" path="dev/vm/vmware/windows/converter"/>
+ <project name="dev_vm_vmware_windows_player" path="dev/vm/vmware/windows/player"/>
+ <project name="dev_vm_vmware_windows_tools" path="dev/vm/vmware/windows/tools"/>
+ <project name="dev_vm_vmware_windows_vmrc" path="dev/vm/vmware/windows/vmrc"/>
+ <project name="dev_vm_vmware_windows_workstation" path="dev/vm/vmware/windows/workstation"/>
  <!--Q-->
- <project name="flipperdevices"			path="q/flipperdevices"/>
- <project name="j1nh0"				path="q/j1nh0"/>
- <project name="linx"				path="q/linx"/>
- <project name="RogueMaster"			path="q/RogueMaster"/>
- <project name="wind"				path="q/wind"/>
+ <project name="flipperdevices" path="q/flipperdevices"/>
+ <project name="j1nh0" path="q/j1nh0"/>
+ <project name="linx" path="q/linx"/>
+ <project name="RogueMaster" path="q/RogueMaster"/>
+ <project name="wind" path="q/wind"/>
+ <!--GITHUB-->
+ <project name="AUTOMATIC1111/stable-diffusion-webui" path="dev/git/stable-diffusion-webui" remote="githubmaster"/>
+ <project name="bacher09/pwgen-for-bios" path="dev/git/pwgen-for-bios" remote="githubmain"/>
+ <project name="ChrisRfr/Win10XPE" path="dev/git/Win10XPE" remote="githubmaster"/>
+ <project name="dogbert/bios-pwgen" path="dev/git/bios-pwgen" remote="githubmaster"/>
+ <project name="google/adb-sync" path="dev/git/adb-sync" remote="githubmaster"/>
+ <project name="hagezi/dns-blocklists" path="dev/git/dns-blocklists" remote="githubmain"/>
+ <project name="hak5/usbrubberducky-payloads" path="dev/git/usbrubberducky-payloads" remote="githubmaster"/>
+ <project name="INT3NSE07/better-adb-sync" path="dev/git/better-adb-sync" remote="githubmain"/>
+ <project name="issus/altium-library" path="dev/git/altium-library" remote="githubmaster"/>
+ <project name="sqlitebrowser/sqlitebrowser" path="dev/git/sqlbrowser" remote="githubmaster"/>
+ <project name="TheMuppets/manifests" path="dev/git/manifests" remote="github" revision="lineage-21.0"/>
+ <project name="upscayl/upscayl" path="dev/git/upscayl" remote="githubmain"/>
+ <!--GITLAB-->
+ <project name="MindTheGapps/vendor_gapps" path="dev/git/vendor_gapps" remote="gitlab" revision="upsilon"/>
+ <!--GIST-->
+ <project name="aallan/b4bb86db86079509e6159810ae9bd3e4" path="dev/git/mac-vendor" remote="gitgist" revision="846ae1b646ab0f4d646af9115e47365f4118e5f6"/>
+ <!--MAGISK-->	
+ <project name="topjohnwu/Magisk" path="dev/git/Magisk" remote="githubmaster"/>
+ <project name="topjohnwu/ndk-busybox" path="dev/git/Magisk/native/src/external/busybox" remote="github" revision="android-ndk-1.36.1"/>
+ <project name="nemequ/bzip2" path="dev/git/Magisk/native/src/external/bzip2" remote="githubmaster"/>
+ <project name="topjohnwu/crt0" path="dev/git/Magisk/native/src/external/crt0" remote="githubmaster"/>
+ <project name="topjohnwu/cxx" path="dev/git/Magisk/native/src/external/cxx-rs" remote="githubmaster"/>
+ <project name="topjohnwu/libcxx" path="dev/git/Magisk/native/src/external/libcxx" remote="githubmaster"/>
+ <project name="LSPosed/LSPlt" path="dev/git/Magisk/native/src/external/lsplt" remote="githubmaster"/>
+ <project name="lz4/lz4" path="dev/git/Magisk/native/src/external/lz4" remote="githubdev"/>
+ <project name="platform/external/pcre" path="dev/git/Magisk/native/src/external/pcre" remote="googleandroidmaster"/>
+ <project name="topjohnwu/selinux" path="dev/git/Magisk/native/src/external/selinux" remote="githubmaster"/>
+ <project name="topjohnwu/system_properties" path="dev/git/Magisk/native/src/external/system_properties" remote="githubmaster"/>
+ <project name="xz-mirror/xz" path="dev/git/Magisk/native/src/external/xz" remote="githubmaster"/>
+ <project name="platform/external/zlib" path="dev/git/Magisk/native/src/external/zlib" remote="googleandroidmaster"/>
+ <project name="google/zopfli" path="dev/git/Magisk/native/src/external/zopfli" remote="githubmaster"/>
+ <project name="termux/termux-elf-cleaner" path="dev/git/Magisk/tools/termux-elf-cleaner" remote="githubmaster"/>
 </manifest>
