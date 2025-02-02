@@ -106,7 +106,7 @@ https://www.svgrepo.com/collections/
 <code>[<img height="40" src="/res/alpha/e.svg">]()</code>&nbsp;<!---->
 <code>[<img height="40" src="/res/alpha/r.svg">]()</code>&nbsp;<!---->
 <code>[<img height="40" src="/res/alpha/t.svg">]()</code>&nbsp;<!---->
-<code>[<img height="40" src="/res/alpha/y.svg">]()</code>&nbsp;<!---->
+<code>[<img height="40" src="/res/alpha/y.svg">](https://mega.nz/folder/O6gQURrI#0GIj-B5tTvknCjhJahqw6w)</code>&nbsp;<!---->
 <code>[<img height="40" src="/res/alpha/u.svg">]()</code>&nbsp;<!---->
 <code>[<img height="40" src="/res/alpha/i.svg">]()</code>&nbsp;<!---->
 <code>[<img height="40" src="/res/alpha/o.svg">](https://mega.nz/#P!AgDfNjGcIEkI552-BspgtMvuid_2tumorAfcnVBGZvag0n1VVnBNpsji8OWSH-3d70mklNvtXUyLbNUtir950937WuH0O9ExdcaQ3QHI0smrWi6Q0qRPOw)</code>&nbsp;<!---->
