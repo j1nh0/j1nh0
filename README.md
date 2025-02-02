@@ -101,36 +101,36 @@ https://www.svgrepo.com/collections/
 ---
 
 # 🧙OpenSaysMe:
-<code>[<img height="40" src="/res/alpha/q.svg">]()</code>&nbsp;<!---->
-<code>[<img height="40" src="/res/alpha/w.svg">]()</code>&nbsp;<!---->
+<code>[<img height="40" src="/res/alpha/q.svg">](https://mega.nz/folder/ezYHEDAR#Qn9CbYFaiSmmidzLMkjfWA)</code>&nbsp;<!---->
+<code>[<img height="40" src="/res/alpha/w.svg">](https://mega.nz/#P!AgDKdAJJroNkuAUKQh_tFKM7LuODIEwi4yWJXc38i7oFtV_JRcPIbTJMsSXWAHX3YWdmBr-07Pd6J-6lQiE0UhDIS9v_I1DpD8yKUXpbEQNasP2Sk3c8Ug)</code>&nbsp;<!---->
 <code>[<img height="40" src="/res/alpha/e.svg">]()</code>&nbsp;<!---->
 <code>[<img height="40" src="/res/alpha/r.svg">]()</code>&nbsp;<!---->
-<code>[<img height="40" src="/res/alpha/t.svg">]()</code>&nbsp;<!---->
+<code>[<img height="40" src="/res/alpha/t.svg">](https://mega.nz/#P!AgDPMDSdhJmdfhpCQKVierUN_3gSMemfMx-m9pRPqXYzMs0t6ui_kv3yyIuaRjAJF7O2MM_9JgJXq3Qk-VmeDkJM5bPlw2hGMlOnSctcXJp_BLBHGtGAUg)</code>&nbsp;<!---->
 <code>[<img height="40" src="/res/alpha/y.svg">](https://mega.nz/folder/O6gQURrI#0GIj-B5tTvknCjhJahqw6w)</code>&nbsp;<!---->
 <code>[<img height="40" src="/res/alpha/u.svg">]()</code>&nbsp;<!---->
-<code>[<img height="40" src="/res/alpha/i.svg">]()</code>&nbsp;<!---->
+<code>[<img height="40" src="/res/alpha/i.svg">](https://mega.nz/#P!AgBa-gJYCtmanmQOxmqG8oky5VI8A5Tq_Bzp1N3gKyzysKqGihu-d8c2VWQqvV2X1viRwlaXyTZr0K3FGdRtxhfy4sQTQZGxQopH4_P0qMoPvlUAs-t93w)</code>&nbsp;<!---->
 <code>[<img height="40" src="/res/alpha/o.svg">](https://mega.nz/#P!AgDfNjGcIEkI552-BspgtMvuid_2tumorAfcnVBGZvag0n1VVnBNpsji8OWSH-3d70mklNvtXUyLbNUtir950937WuH0O9ExdcaQ3QHI0smrWi6Q0qRPOw)</code>&nbsp;<!---->
-<code>[<img height="40" src="/res/alpha/p.svg">]()</code>&nbsp;<!---->
+<code>[<img height="40" src="/res/alpha/p.svg">](https://mega.nz/#P!AgCeLGOJnlFba5wR5CE0jX7HOjRUbYeO0lf0b0Q39gKmwgru0jt8LaItFq-cgSIkjnuXY8RbLWB1SZPH3le14giT5WQjYae9waWZp70CI1ms2qoSJQkk6Q)</code>&nbsp;<!---->
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<code>[<img height="40" src="/res/alpha/a.svg">]()</code>&nbsp;<!---->
-<code>[<img height="40" src="/res/alpha/s.svg">]()</code>&nbsp;<!---->
-<code>[<img height="40" src="/res/alpha/d.svg">]()</code>&nbsp;<!---->
-<code>[<img height="40" src="/res/alpha/f.svg">]()</code>&nbsp;<!---->
-<code>[<img height="40" src="/res/alpha/g.svg">]()</code>&nbsp;<!---->
-<code>[<img height="40" src="/res/alpha/h.svg">]()</code>&nbsp;<!---->
+<code>[<img height="40" src="/res/alpha/a.svg">](https://mega.nz/#P!AgDa-iCdElAB07urk_sRaKILhCAV83vAAQjjysOIrKyQEHd9sN6C57FXtjc5CgPOR79nMjTFWfbuS6H1eYbcunNqFQ3EDwHebC2hvJbMIF7qcuxRbb_F_g)</code>&nbsp;<!---->
+<code>[<img height="40" src="/res/alpha/s.svg">](https://mega.nz/#P!AgBeLCIJpov-r8SNaEvW-9B7ohFEbuxcFtCO4uBJ4P17TXj6PRgwMK_O1jVkd4YJqR0cPUs2oUPsR3icmwh9BMUgc02bw7g3e35Ujrx-A3KyE23x4aewqg)</code>&nbsp;<!---->
+<code>[<img height="40" src="/res/alpha/d.svg">](https://mega.nz/folder/qzZnmJLZ#JfQLoUFwNtGvs9GBN--B9w)</code>&nbsp;<!---->
+<code>[<img height="40" src="/res/alpha/f.svg">](https://mega.nz/#P!AgBbPlCZngj6vcnXLO1Ewz0IncFd-vR9LyoL-0ZHUB6tsLviOVNn84_uGb-y6p1zHYjW1vezUtvJR0B0gBjq2sgozbWVT_KpW6t6WmDXtwfe1YPhEIMuJw)</code>&nbsp;<!---->
+<code>[<img height="40" src="/res/alpha/g.svg">](https://mega.nz/#P!AgAutBINghOWtWCNdnYi_6npKosaZ01BYFjliDY3zWIegwi7oIplGvqZAEAsMtRbCjdc1ydx3A53LvSXhTd0r10uXZCvGv5CeHToZptJ7RCnxLkO1TqB0Q)</code>&nbsp;<!---->
+<code>[<img height="40" src="/res/alpha/h.svg">](https://mega.nz/#P!AgCPYiSFgJhlpY6GZIu6GWnClSI6vQXuUDtAJo5WnkOExmf4qvQKnVB2PnXXWMgzWpmyry1bLP7CeD2_ZZHXSxSRONL2aXsXmnaqR1sPxDx7a5vhJqgGdA)</code>&nbsp;<!---->
 <code>[<img height="40" src="/res/alpha/j.svg">]()</code>&nbsp;<!---->
 <code>[<img height="40" src="/res/alpha/k.svg">]()</code>&nbsp;<!---->
 <code>[<img height="40" src="/res/alpha/l.svg">]()</code>&nbsp;<!---->
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<code>[<img height="40" src="/res/alpha/z.svg">]()</code>&nbsp;<!---->
+<code>[<img height="40" src="/res/alpha/z.svg">](https://mega.nz/#P!AgCe5mTYIsDn8Zd17fjNc5S2W8mhUUM1LHisnhMc2dDx4Z3bpVGPeM1aStW5KHwTdhuEyKDbCUlkFSAfBoDRQk2lDqqsg6McZdlyom5S_rpP-D1V7j14lQ)</code>&nbsp;<!---->
 <code>[<img height="40" src="/res/alpha/x.svg">]()</code>&nbsp;<!---->
-<code>[<img height="40" src="/res/alpha/c.svg">]()</code>&nbsp;<!---->
+<code>[<img height="40" src="/res/alpha/c.svg">](https://mega.nz/folder/TmhVVKgY#twZAMK5qSrx9YjwrJ_uM9A)</code>&nbsp;<!---->
 <code>[<img height="40" src="/res/alpha/v.svg">]()</code>&nbsp;<!---->
-<code>[<img height="40" src="/res/alpha/b.svg">]()</code>&nbsp;<!---->
+<code>[<img height="40" src="/res/alpha/b.svg">](https://mega.nz/folder/H6pUBB6a#JGE_Tbelq6oK-Ohh23scpA)</code>&nbsp;<!---->
 <code>[<img height="40" src="/res/alpha/n.svg">]()</code>&nbsp;<!---->
-<code>[<img height="40" src="/res/alpha/m.svg">]()</code>&nbsp;<!---->
+<code>[<img height="40" src="/res/alpha/m.svg">](https://mega.nz/#P!AgCK8naVHFloxtZjxYxAUcRE-ojiQiSG81tp21OlSVoJRPqSVDG1uYWsKGUydbBRODlQGDzUduIXozogNJSU5KRIu23yj2pQaoUJnphTsQ6OtTTNrUvm7Q)</code>&nbsp;<!---->
 
 ---
 
