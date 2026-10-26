@@ -50,6 +50,8 @@ curl https://raw.githubusercontent.com/j1nh0/linx/main/rcl-init/rcl-init.sh|bash
 <code>[<img height="40" src="/res/consumables/au.svg">](https://github.com/j1nh0/j1nh0/blob/main/allo/AU-allo-chart.pdf)</code>&nbsp;<!--AU allo chart-->
 <code>[<img height="40" src="/res/consumables/uk.svg">](https://github.com/j1nh0/j1nh0/blob/main/allo/UK-allo-chart.pdf)</code>&nbsp;<!--UK allo chart-->
 
+<code>[<img height="40" src="/res/consumables/key-yellow.svg">]([https://github.com/j1nh0/j1nh0/raw/main/consumables/j1nh0.pub.zip](https://www.worldtimebuddy.com/?pl=1&lid=100,5,6,7,8,524901,1816670,21,20,14&h=7&hf=0))</code>&nbsp;<!--world time-->
+
 ---
 
 # 🐧Badges:
